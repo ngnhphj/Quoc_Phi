@@ -125,6 +125,12 @@
     <Content Include="OrderDetails.aspx" />
     <Content Include="PhotoDetails.aspx" />
     <Content Include="Photos.aspx" />
+    <Content Include="photo_img\1.jpg" />
+    <Content Include="photo_img\sanpham1.jpg" />
+    <Content Include="photo_img\sanpham2.jpg" />
+    <Content Include="photo_img\sanpham3.jpg" />
+    <Content Include="photo_img\sanpham4.jpg" />
+    <Content Include="photo_img\sanpham5.jpg" />
     <Content Include="post_image\1.png" />
     <Content Include="post_image\avt.jpg" />
     <Content Include="Profile.aspx" />
