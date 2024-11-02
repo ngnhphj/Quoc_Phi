@@ -13,7 +13,7 @@
 
   </head>
   <body>
- <%--   <header class="page-header">
+   <header class="page-header">
         <nav class="fixed-top navbar navbar-expand-lg bg-body-white">
             <div class="container-fluid">--%>
                 <%--logo--%>
@@ -116,7 +116,7 @@
                 </div>
             </div>
         </nav>
-    </header>--%>
+    </header>
 
     <%--content--%>
     <div class="container">
@@ -128,7 +128,7 @@
         </form>
     </div>
     
-    <%--<footer class="page-footer">
+  <footer class="page-footer">
         <div class="row">
             <div class="col-lg-6">
                 <div class="items-footer">
@@ -218,7 +218,7 @@
                 </div>
             </div>
         </div>
-    </footer>--%>
+    </footer>
     
 
 
