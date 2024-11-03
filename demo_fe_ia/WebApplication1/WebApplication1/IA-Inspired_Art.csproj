@@ -101,6 +101,7 @@
     <Content Include="css\css_menu.css" />
     <Content Include="css\css_photos.css" />
     <Content Include="css\css_profile.css" />
+    <Content Include="css\css_signupbsn.css" />
     <Content Include="ExhibitionCorner.aspx" />
     <Content Include="Global.asax" />
     <Content Include="Help.aspx" />
@@ -116,10 +117,8 @@
     <Content Include="images\img_home\8.jpg" />
     <Content Include="images\img_home\9.jpg" />
     <Content Include="images\lg_IA.jpg" />
-    <Content Include="img_collection\COLLECTION1.jpg" />
-    <Content Include="img_collection\COLLECTION2.jpg" />
-    <Content Include="img_collection\COLLECTION3.jpg" />
-    <Content Include="img_collection\COLLECTION4.jpg" />
+    <Content Include="img_signupbusiness\background2.jpeg" />
+    <Content Include="img_signupbusiness\background3.jpeg" />
     <Content Include="js\js_login.js" />
     <Content Include="js\js_profile.js" />
     <Content Include="Login.aspx" />
@@ -129,12 +128,6 @@
     <Content Include="OrderDetails.aspx" />
     <Content Include="PhotoDetails.aspx" />
     <Content Include="Photos.aspx" />
-    <Content Include="photo_img\1.jpg" />
-    <Content Include="photo_img\sanpham1.jpg" />
-    <Content Include="photo_img\sanpham2.jpg" />
-    <Content Include="photo_img\sanpham3.jpg" />
-    <Content Include="photo_img\sanpham4.jpg" />
-    <Content Include="photo_img\sanpham5.jpg" />
     <Content Include="post_image\1.png" />
     <Content Include="post_image\avt.jpg" />
     <Content Include="Profile.aspx" />
@@ -150,6 +143,7 @@
     <Content Include="Upload.aspx" />
     <Content Include="Web.config" />
     <Content Include="Post.aspx" />
+    <Content Include="Signup_Business.aspx" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Chatting.aspx.cs">
@@ -291,6 +285,13 @@
     </Compile>
     <Compile Include="Post.aspx.designer.cs">
       <DependentUpon>Post.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Signup_Business.aspx.cs">
+      <DependentUpon>Signup_Business.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Signup_Business.aspx.designer.cs">
+      <DependentUpon>Signup_Business.aspx</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>
