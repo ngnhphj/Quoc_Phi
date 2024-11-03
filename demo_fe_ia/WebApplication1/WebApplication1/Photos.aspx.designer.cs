@@ -13,5 +13,23 @@ namespace WebApplication1
 
     public partial class Photos
     {
+
+        /// <summary>
+        /// DSQUANGCAO control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.DataList DSQUANGCAO;
+
+        /// <summary>
+        /// DSTACPHAM control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.DataList DSTACPHAM;
     }
 }

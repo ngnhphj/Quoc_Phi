@@ -1,73 +1,73 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\",
+  "WorkspaceRootPath": "C:\\Users\\trana\\Documents\\d\u1EF1 \u00E1n\\photos\\demo_fe_ia\\WebApplication1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|c:\\users\\acer\\onedrive\\documents\\github\\quoc_phi\\demo_fe_ia\\webapplication1\\webapplication1\\signup_business.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|solutionrelative:webapplication1\\signup_business.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|c:\\users\\acer\\onedrive\\documents\\github\\quoc_phi\\demo_fe_ia\\webapplication1\\webapplication1\\signup_business.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|solutionrelative:webapplication1\\signup_business.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\webapplication1\\lopketnoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|solutionrelative:webapplication1\\lopketnoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\CMU-IS-432_MAI-AM-HOA-HONG\\demo_fe_ia\\WebApplication1\\WebApplication1\\WebForm2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\webapplication1\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|solutionrelative:webapplication1\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\webapplication1\\post.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|solutionrelative:webapplication1\\post.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\webapplication1\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|solutionrelative:webapplication1\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\webapplication1\\post.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|solutionrelative:webapplication1\\post.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\webapplication1\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|solutionrelative:webapplication1\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\webapplication1\\profile.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|solutionrelative:webapplication1\\profile.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\webapplication1\\post.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|solutionrelative:webapplication1\\post.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\webapplication1\\profile.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|solutionrelative:webapplication1\\profile.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\webapplication1\\photos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|c:\\users\\trana\\documents\\d\u1EF1 \u00E1n\\photos\\demo_fe_ia\\webapplication1\\webapplication1\\photos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|solutionrelative:webapplication1\\photos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\webapplication1\\melody.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|solutionrelative:webapplication1\\melody.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|C:\\Users\\trana\\Documents\\d\u1EF1 \u00E1n\\photos\\demo_fe_ia\\WebApplication1\\WebApplication1\\Home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|solutionrelative:WebApplication1\\Home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\webapplication1\\menu.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
-      "RelativeMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|solutionrelative:webapplication1\\menu.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+      "AbsoluteMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|C:\\Users\\trana\\Documents\\d\u1EF1 \u00E1n\\photos\\demo_fe_ia\\WebApplication1\\WebApplication1\\Collection.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|solutionrelative:WebApplication1\\Collection.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\webapplication1\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|solutionrelative:webapplication1\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|C:\\Users\\trana\\Documents\\d\u1EF1 \u00E1n\\photos\\demo_fe_ia\\WebApplication1\\webapplication1\\css\\css_collection.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|solutionrelative:webapplication1\\css\\css_collection.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\webapplication1\\css\\css_profile.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|solutionrelative:webapplication1\\css\\css_profile.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_TRANA_DOCUMENTS_D\u1EF0_\u00C1N_QUOC_PHI_DEMO_FE_IA_WEBAPPLICATION1_WEBAPPLICATION1_APP_DATA_DATABASE1.MDF/True/SqlTable/dbo.IMGCOLLECTION.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|C:\\Users\\trana\\Documents\\d\u1EF1 \u00E1n\\photos\\demo_fe_ia\\WebApplication1\\WebApplication1\\css\\css_photos.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|solutionrelative:WebApplication1\\css\\css_photos.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|C:\\Users\\trana\\Documents\\d\u1EF1 \u00E1n\\photos\\demo_fe_ia\\WebApplication1\\WebApplication1\\Post.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|solutionrelative:WebApplication1\\Post.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|C:\\Users\\trana\\Documents\\d\u1EF1 \u00E1n\\photos\\demo_fe_ia\\WebApplication1\\WebApplication1\\Menu.Master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|solutionrelative:WebApplication1\\Menu.Master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|C:\\Users\\trana\\Documents\\d\u1EF1 \u00E1n\\photos\\demo_fe_ia\\WebApplication1\\WebApplication1\\LopKetNoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|solutionrelative:WebApplication1\\LopKetNoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|C:\\Users\\trana\\Documents\\d\u1EF1 \u00E1n\\photos\\demo_fe_ia\\WebApplication1\\WebApplication1\\Post.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|solutionrelative:WebApplication1\\Post.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|C:\\Users\\trana\\Documents\\d\u1EF1 \u00E1n\\photos\\demo_fe_ia\\WebApplication1\\WebApplication1\\Web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|solutionrelative:WebApplication1\\Web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|C:\\Users\\trana\\Documents\\d\u1EF1 \u00E1n\\photos\\demo_fe_ia\\WebApplication1\\WebApplication1\\Profile.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|solutionrelative:WebApplication1\\Profile.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|C:\\Users\\trana\\Documents\\d\u1EF1 \u00E1n\\photos\\demo_fe_ia\\WebApplication1\\WebApplication1\\Post.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|solutionrelative:WebApplication1\\Post.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|C:\\Users\\trana\\Documents\\d\u1EF1 \u00E1n\\photos\\demo_fe_ia\\WebApplication1\\WebApplication1\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|solutionrelative:WebApplication1\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|C:\\Users\\trana\\Documents\\d\u1EF1 \u00E1n\\photos\\demo_fe_ia\\WebApplication1\\WebApplication1\\Melody.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|solutionrelative:WebApplication1\\Melody.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|C:\\Users\\trana\\Documents\\d\u1EF1 \u00E1n\\photos\\demo_fe_ia\\WebApplication1\\WebApplication1\\Profile.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|solutionrelative:WebApplication1\\Profile.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|C:\\Users\\trana\\Documents\\d\u1EF1 \u00E1n\\photos\\demo_fe_ia\\WebApplication1\\WebApplication1\\css\\css_profile.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|solutionrelative:WebApplication1\\css\\css_profile.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -80,78 +80,130 @@
           "SelectedChildIndex": 2,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:1:0:{e8b06f53-6d01-11d2-aa7d-00c04f990343}"
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "dbo.IMGCOLLECTION.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_TRANA_DOCUMENTS_D\u1EF0_\u00C1N_QUOC_PHI_DEMO_FE_IA_WEBAPPLICATION1_WEBAPPLICATION1_APP_DATA_DATABASE1.MDF/True/SqlTable/dbo.IMGCOLLECTION.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_TRANA_DOCUMENTS_D\u1EF0_\u00C1N_QUOC_PHI_DEMO_FE_IA_WEBAPPLICATION1_WEBAPPLICATION1_APP_DATA_DATABASE1.MDF/True/SqlTable/dbo.IMGCOLLECTION.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-11-03T18:11:15.123Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Signup_Business.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Signup_Business.aspx.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Signup_Business.aspx.cs",
-              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Signup_Business.aspx.cs",
-              "RelativeToolTip": "WebApplication1\\Signup_Business.aspx.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-03T20:04:43.169Z",
-              "EditorCaption": ""
+              "DocumentIndex": 3,
+              "Title": "css_collection.css",
+              "DocumentMoniker": "C:\\Users\\trana\\Documents\\d\u1EF1 \u00E1n\\photos\\demo_fe_ia\\WebApplication1\\WebApplication1\\css\\css_collection.css",
+              "RelativeDocumentMoniker": "WebApplication1\\css\\css_collection.css",
+              "ToolTip": "C:\\Users\\trana\\Documents\\d\u1EF1 \u00E1n\\photos\\demo_fe_ia\\WebApplication1\\WebApplication1\\css\\css_collection.css",
+              "RelativeToolTip": "WebApplication1\\css\\css_collection.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-03T13:45:03.895Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Signup_Business.aspx",
-              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Signup_Business.aspx",
-              "RelativeDocumentMoniker": "WebApplication1\\Signup_Business.aspx",
-              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Signup_Business.aspx",
-              "RelativeToolTip": "WebApplication1\\Signup_Business.aspx",
+              "Title": "Photos.aspx",
+              "DocumentMoniker": "C:\\Users\\trana\\Documents\\d\u1EF1 \u00E1n\\photos\\demo_fe_ia\\WebApplication1\\WebApplication1\\Photos.aspx",
+              "RelativeDocumentMoniker": "WebApplication1\\Photos.aspx",
+              "ToolTip": "C:\\Users\\trana\\Documents\\d\u1EF1 \u00E1n\\photos\\demo_fe_ia\\WebApplication1\\WebApplication1\\Photos.aspx",
+              "RelativeToolTip": "WebApplication1\\Photos.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-11-03T19:27:22.579Z",
+              "WhenOpened": "2024-10-31T15:56:10.489Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Login.aspx",
-              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Login.aspx",
-              "RelativeDocumentMoniker": "WebApplication1\\Login.aspx",
-              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Login.aspx",
-              "RelativeToolTip": "WebApplication1\\Login.aspx",
+              "DocumentIndex": 1,
+              "Title": "Home.aspx",
+              "DocumentMoniker": "C:\\Users\\trana\\Documents\\d\u1EF1 \u00E1n\\photos\\demo_fe_ia\\WebApplication1\\WebApplication1\\Home.aspx",
+              "RelativeDocumentMoniker": "WebApplication1\\Home.aspx",
+              "ToolTip": "C:\\Users\\trana\\Documents\\d\u1EF1 \u00E1n\\photos\\demo_fe_ia\\WebApplication1\\WebApplication1\\Home.aspx",
+              "RelativeToolTip": "WebApplication1\\Home.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-11-03T16:30:17.644Z"
+              "WhenOpened": "2024-10-31T09:50:51.799Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "packages.config",
-              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\packages.config",
-              "RelativeDocumentMoniker": "WebApplication1\\packages.config",
-              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\packages.config",
-              "RelativeToolTip": "WebApplication1\\packages.config",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-10-31T17:37:14.457Z"
+              "DocumentIndex": 2,
+              "Title": "Collection.aspx",
+              "DocumentMoniker": "C:\\Users\\trana\\Documents\\d\u1EF1 \u00E1n\\photos\\demo_fe_ia\\WebApplication1\\WebApplication1\\Collection.aspx",
+              "RelativeDocumentMoniker": "WebApplication1\\Collection.aspx",
+              "ToolTip": "C:\\Users\\trana\\Documents\\d\u1EF1 \u00E1n\\photos\\demo_fe_ia\\WebApplication1\\WebApplication1\\Collection.aspx",
+              "RelativeToolTip": "WebApplication1\\Collection.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-02T09:44:53.704Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Post.aspx.designer.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Post.aspx.designer.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Post.aspx.designer.cs",
-              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Post.aspx.designer.cs",
-              "RelativeToolTip": "WebApplication1\\Post.aspx.designer.cs",
+              "DocumentIndex": 9,
+              "Title": "Post.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\trana\\Documents\\d\u1EF1 \u00E1n\\photos\\demo_fe_ia\\WebApplication1\\WebApplication1\\Post.aspx.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Post.aspx.cs",
+              "ToolTip": "C:\\Users\\trana\\Documents\\d\u1EF1 \u00E1n\\photos\\demo_fe_ia\\WebApplication1\\WebApplication1\\Post.aspx.cs",
+              "RelativeToolTip": "WebApplication1\\Post.aspx.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T17:36:06.27Z"
+              "WhenOpened": "2024-10-31T15:48:53.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "css_photos.css",
+              "DocumentMoniker": "C:\\Users\\trana\\Documents\\d\u1EF1 \u00E1n\\photos\\demo_fe_ia\\WebApplication1\\WebApplication1\\css\\css_photos.css",
+              "RelativeDocumentMoniker": "WebApplication1\\css\\css_photos.css",
+              "ToolTip": "C:\\Users\\trana\\Documents\\d\u1EF1 \u00E1n\\photos\\demo_fe_ia\\WebApplication1\\WebApplication1\\css\\css_photos.css",
+              "RelativeToolTip": "WebApplication1\\css\\css_photos.css",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-02T10:46:18.225Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
+              "Title": "LopKetNoi.cs",
+              "DocumentMoniker": "C:\\Users\\trana\\Documents\\d\u1EF1 \u00E1n\\photos\\demo_fe_ia\\WebApplication1\\WebApplication1\\LopKetNoi.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\LopKetNoi.cs",
+              "ToolTip": "C:\\Users\\trana\\Documents\\d\u1EF1 \u00E1n\\photos\\demo_fe_ia\\WebApplication1\\WebApplication1\\LopKetNoi.cs",
+              "RelativeToolTip": "WebApplication1\\LopKetNoi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAADYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T10:06:25.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Menu.Master",
+              "DocumentMoniker": "C:\\Users\\trana\\Documents\\d\u1EF1 \u00E1n\\photos\\demo_fe_ia\\WebApplication1\\WebApplication1\\Menu.Master",
+              "RelativeDocumentMoniker": "WebApplication1\\Menu.Master",
+              "ToolTip": "C:\\Users\\trana\\Documents\\d\u1EF1 \u00E1n\\photos\\demo_fe_ia\\WebApplication1\\WebApplication1\\Menu.Master",
+              "RelativeToolTip": "WebApplication1\\Menu.Master",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-31T15:52:05.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Post.aspx",
+              "DocumentMoniker": "C:\\Users\\trana\\Documents\\d\u1EF1 \u00E1n\\photos\\demo_fe_ia\\WebApplication1\\WebApplication1\\Post.aspx",
+              "RelativeDocumentMoniker": "WebApplication1\\Post.aspx",
+              "ToolTip": "C:\\Users\\trana\\Documents\\d\u1EF1 \u00E1n\\photos\\demo_fe_ia\\WebApplication1\\WebApplication1\\Post.aspx",
+              "RelativeToolTip": "WebApplication1\\Post.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-31T15:48:54.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "Web.config",
-              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Web.config",
+              "DocumentMoniker": "C:\\Users\\trana\\Documents\\d\u1EF1 \u00E1n\\photos\\demo_fe_ia\\WebApplication1\\WebApplication1\\Web.config",
               "RelativeDocumentMoniker": "WebApplication1\\Web.config",
-              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Web.config",
+              "ToolTip": "C:\\Users\\trana\\Documents\\d\u1EF1 \u00E1n\\photos\\demo_fe_ia\\WebApplication1\\WebApplication1\\Web.config",
               "RelativeToolTip": "WebApplication1\\Web.config",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
@@ -160,71 +212,47 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Profile.aspx",
+              "DocumentMoniker": "C:\\Users\\trana\\Documents\\d\u1EF1 \u00E1n\\photos\\demo_fe_ia\\WebApplication1\\WebApplication1\\Profile.aspx",
+              "RelativeDocumentMoniker": "WebApplication1\\Profile.aspx",
+              "ToolTip": "C:\\Users\\trana\\Documents\\d\u1EF1 \u00E1n\\photos\\demo_fe_ia\\WebApplication1\\WebApplication1\\Profile.aspx",
+              "RelativeToolTip": "WebApplication1\\Profile.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-31T09:51:13.288Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "Photos.aspx",
-              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Photos.aspx",
-              "RelativeDocumentMoniker": "WebApplication1\\Photos.aspx",
-              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Photos.aspx",
-              "RelativeToolTip": "WebApplication1\\Photos.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-10-31T15:56:10.489Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "LopKetNoi.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\LopKetNoi.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\LopKetNoi.cs",
-              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\LopKetNoi.cs",
-              "RelativeToolTip": "WebApplication1\\LopKetNoi.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAADdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T10:06:25.44Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "WebForm2.aspx",
-              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\CMU-IS-432_MAI-AM-HOA-HONG\\demo_fe_ia\\WebApplication1\\WebApplication1\\WebForm2.aspx",
-              "RelativeDocumentMoniker": "..\\..\\..\\CMU-IS-432_MAI-AM-HOA-HONG\\demo_fe_ia\\WebApplication1\\WebApplication1\\WebForm2.aspx",
-              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\CMU-IS-432_MAI-AM-HOA-HONG\\demo_fe_ia\\WebApplication1\\WebApplication1\\WebForm2.aspx",
-              "RelativeToolTip": "..\\..\\..\\CMU-IS-432_MAI-AM-HOA-HONG\\demo_fe_ia\\WebApplication1\\WebApplication1\\WebForm2.aspx",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-11-03T16:32:18.618Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Post.aspx",
-              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Post.aspx",
-              "RelativeDocumentMoniker": "WebApplication1\\Post.aspx",
-              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Post.aspx",
-              "RelativeToolTip": "WebApplication1\\Post.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-10-31T15:48:54.325Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Post.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Post.aspx.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Post.aspx.cs",
-              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Post.aspx.cs",
-              "RelativeToolTip": "WebApplication1\\Post.aspx.cs",
+              "Title": "Post.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\trana\\Documents\\d\u1EF1 \u00E1n\\photos\\demo_fe_ia\\WebApplication1\\WebApplication1\\Post.aspx.designer.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Post.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\trana\\Documents\\d\u1EF1 \u00E1n\\photos\\demo_fe_ia\\WebApplication1\\WebApplication1\\Post.aspx.designer.cs",
+              "RelativeToolTip": "WebApplication1\\Post.aspx.designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T15:48:53.647Z"
+              "WhenOpened": "2024-10-31T17:36:06.27Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\trana\\Documents\\d\u1EF1 \u00E1n\\photos\\demo_fe_ia\\WebApplication1\\WebApplication1\\packages.config",
+              "RelativeDocumentMoniker": "WebApplication1\\packages.config",
+              "ToolTip": "C:\\Users\\trana\\Documents\\d\u1EF1 \u00E1n\\photos\\demo_fe_ia\\WebApplication1\\WebApplication1\\packages.config",
+              "RelativeToolTip": "WebApplication1\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-31T17:37:14.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "Melody.aspx",
-              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Melody.aspx",
+              "DocumentMoniker": "C:\\Users\\trana\\Documents\\d\u1EF1 \u00E1n\\photos\\demo_fe_ia\\WebApplication1\\WebApplication1\\Melody.aspx",
               "RelativeDocumentMoniker": "WebApplication1\\Melody.aspx",
-              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Melody.aspx",
+              "ToolTip": "C:\\Users\\trana\\Documents\\d\u1EF1 \u00E1n\\photos\\demo_fe_ia\\WebApplication1\\WebApplication1\\Melody.aspx",
               "RelativeToolTip": "WebApplication1\\Melody.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
@@ -232,23 +260,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Menu.Master",
-              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Menu.Master",
-              "RelativeDocumentMoniker": "WebApplication1\\Menu.Master",
-              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Menu.Master",
-              "RelativeToolTip": "WebApplication1\\Menu.Master",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-10-31T15:52:05.968Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "Profile.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Profile.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\trana\\Documents\\d\u1EF1 \u00E1n\\photos\\demo_fe_ia\\WebApplication1\\WebApplication1\\Profile.aspx.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Profile.aspx.cs",
-              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Profile.aspx.cs",
+              "ToolTip": "C:\\Users\\trana\\Documents\\d\u1EF1 \u00E1n\\photos\\demo_fe_ia\\WebApplication1\\WebApplication1\\Profile.aspx.cs",
               "RelativeToolTip": "WebApplication1\\Profile.aspx.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -256,35 +272,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Profile.aspx",
-              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Profile.aspx",
-              "RelativeDocumentMoniker": "WebApplication1\\Profile.aspx",
-              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Profile.aspx",
-              "RelativeToolTip": "WebApplication1\\Profile.aspx",
-              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-10-31T09:51:13.288Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Home.aspx",
-              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Home.aspx",
-              "RelativeDocumentMoniker": "WebApplication1\\Home.aspx",
-              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Home.aspx",
-              "RelativeToolTip": "WebApplication1\\Home.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-10-31T09:50:51.799Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 16,
               "Title": "css_profile.css",
-              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\css\\css_profile.css",
+              "DocumentMoniker": "C:\\Users\\trana\\Documents\\d\u1EF1 \u00E1n\\photos\\demo_fe_ia\\WebApplication1\\WebApplication1\\css\\css_profile.css",
               "RelativeDocumentMoniker": "WebApplication1\\css\\css_profile.css",
-              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\css\\css_profile.css",
+              "ToolTip": "C:\\Users\\trana\\Documents\\d\u1EF1 \u00E1n\\photos\\demo_fe_ia\\WebApplication1\\WebApplication1\\css\\css_profile.css",
               "RelativeToolTip": "WebApplication1\\css\\css_profile.css",
               "ViewState": "AgIAALQAAAAAAAAAAAAAAMMAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
