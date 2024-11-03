@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\webapplication1\\lopketnoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|solutionrelative:webapplication1\\lopketnoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|c:\\users\\acer\\onedrive\\documents\\github\\quoc_phi\\demo_fe_ia\\webapplication1\\webapplication1\\notification.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|solutionrelative:webapplication1\\notification.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|c:\\users\\acer\\onedrive\\documents\\github\\quoc_phi\\demo_fe_ia\\webapplication1\\webapplication1\\notification.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|solutionrelative:webapplication1\\notification.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|c:\\users\\acer\\onedrive\\documents\\github\\quoc_phi\\demo_fe_ia\\webapplication1\\webapplication1\\photos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|solutionrelative:webapplication1\\photos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
@@ -25,10 +37,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\webapplication1\\profile.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|solutionrelative:webapplication1\\profile.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\webapplication1\\lopketnoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|solutionrelative:webapplication1\\lopketnoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\webapplication1\\post.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -70,7 +78,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 34,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -78,20 +86,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Photos.aspx.designer.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Photos.aspx.designer.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Photos.aspx.designer.cs",
-              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Photos.aspx.designer.cs",
-              "RelativeToolTip": "WebApplication1\\Photos.aspx.designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Notification.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Notification.aspx.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Notification.aspx.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Notification.aspx.cs*",
+              "RelativeToolTip": "WebApplication1\\Notification.aspx.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-02T07:49:21.266Z",
+              "WhenOpened": "2024-11-03T19:35:41.119Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
+              "Title": "Notification.aspx",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Notification.aspx",
+              "RelativeDocumentMoniker": "WebApplication1\\Notification.aspx",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Notification.aspx",
+              "RelativeToolTip": "WebApplication1\\Notification.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-03T19:35:34.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Photos.aspx.cs",
               "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Photos.aspx.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Photos.aspx.cs",
@@ -104,7 +125,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Photos.aspx",
               "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Photos.aspx",
               "RelativeDocumentMoniker": "WebApplication1\\Photos.aspx",
@@ -117,7 +138,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Post.aspx",
               "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Post.aspx",
               "RelativeDocumentMoniker": "WebApplication1\\Post.aspx",
@@ -129,7 +150,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Post.aspx.cs",
               "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Post.aspx.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Post.aspx.cs",
@@ -142,12 +163,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "LopKetNoi.cs",
               "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\LopKetNoi.cs",
               "RelativeDocumentMoniker": "WebApplication1\\LopKetNoi.cs",
-              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\LopKetNoi.cs",
-              "RelativeToolTip": "WebApplication1\\LopKetNoi.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\LopKetNoi.cs*",
+              "RelativeToolTip": "WebApplication1\\LopKetNoi.cs*",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAADdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-31T10:06:25.44Z",
@@ -155,20 +176,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
+              "Title": "Photos.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Photos.aspx.designer.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Photos.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Photos.aspx.designer.cs",
+              "RelativeToolTip": "WebApplication1\\Photos.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T07:49:21.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Menu.Master",
               "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Menu.Master",
               "RelativeDocumentMoniker": "WebApplication1\\Menu.Master",
               "ToolTip": "C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Menu.Master",
               "RelativeToolTip": "WebApplication1\\Menu.Master",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
               "WhenOpened": "2024-10-31T15:52:05.968Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "Web.config",
               "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Web.config",
               "RelativeDocumentMoniker": "WebApplication1\\Web.config",
@@ -181,7 +214,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Profile.aspx",
               "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Profile.aspx",
               "RelativeDocumentMoniker": "WebApplication1\\Profile.aspx",
@@ -193,7 +226,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "Post.aspx.designer.cs",
               "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Post.aspx.designer.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Post.aspx.designer.cs",
@@ -206,7 +239,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "packages.config",
               "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\packages.config",
               "RelativeDocumentMoniker": "WebApplication1\\packages.config",
@@ -219,7 +252,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "Melody.aspx",
               "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Melody.aspx",
               "RelativeDocumentMoniker": "WebApplication1\\Melody.aspx",
@@ -231,7 +264,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "Profile.aspx.cs",
               "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Profile.aspx.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Profile.aspx.cs",
@@ -244,7 +277,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "Home.aspx",
               "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Home.aspx",
               "RelativeDocumentMoniker": "WebApplication1\\Home.aspx",
@@ -256,7 +289,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "css_profile.css",
               "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\css\\css_profile.css",
               "RelativeDocumentMoniker": "WebApplication1\\css\\css_profile.css",
