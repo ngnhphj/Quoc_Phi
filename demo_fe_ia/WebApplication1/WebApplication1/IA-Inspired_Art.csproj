@@ -139,6 +139,9 @@
     <Content Include="photo_img\sanpham5.jpg" />
     <Content Include="post_image\1.png" />
     <Content Include="post_image\avt.jpg" />
+    <Content Include="product_img\monalisa.jpg" />
+    <Content Include="product_img\night.jpg" />
+    <Content Include="product_img\phohangvai.jpg" />
     <Content Include="Profile.aspx" />
     <Content Include="Scripts\bootstrap.bundle.js" />
     <Content Include="Scripts\bootstrap.bundle.min.js" />
@@ -152,6 +155,7 @@
     <Content Include="Upload.aspx" />
     <Content Include="Web.config" />
     <Content Include="Post.aspx" />
+    <Content Include="Product.aspx" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Chatting.aspx.cs">
@@ -293,6 +297,13 @@
     </Compile>
     <Compile Include="Post.aspx.designer.cs">
       <DependentUpon>Post.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Product.aspx.cs">
+      <DependentUpon>Product.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Product.aspx.designer.cs">
+      <DependentUpon>Product.aspx</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>
