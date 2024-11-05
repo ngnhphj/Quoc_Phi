@@ -16,61 +16,61 @@
    <header class="page-header">
         <nav class="fixed-top navbar navbar-expand-lg bg-body-white">
             <div class="container-fluid">
-                <%--logo
-                <%--<a href="Home.aspx">
+                <%--logo--%>
+                <a href="Home.aspx">
                     <img class="logo me-3" src="images/lg_IA.jpg" />
-                </a>--%>
+                </a>
                 <%--menu--%>
-                <button class="navbar-toggler " type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <button class="navbar-toggler " type="button" data-bs-toggle="collapse" data-bs-target="#navbarsupportedcontent" aria-controls="navbarsupportedcontent" aria-expanded="false" aria-label="toggle navigation">
                     <span class="navbar-toggler-icon float"></span>
                 </button>
-                <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <div class="collapse navbar-collapse" id="navbarsupportedcontent">
                     <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                         <li class="nav-item me-4">
-                            <a class="nav-link active text-nowrap" aria-current="page" href="Home.aspx">
+                            <a class="nav-link active text-nowrap" aria-current="page" href="home.aspx">
                                 <i class="fa-solid fa-house me-2"></i>
-                                <b>Home</b>
+                                <b>home</b>
                             </a>
                         </li>
                         <li class="nav-item me-4">
-                            <a class="nav-link active text-nowrap" aria-current="page" href="Photos.aspx">
+                            <a class="nav-link active text-nowrap" aria-current="page" href="photos.aspx">
                                 <i class="fa-solid fa-palette me-2"></i>
-                                <b>Photos</b>
+                                <b>photos</b>
                             </a>
                         </li>
                         <li class="nav-item me-4">
-                            <a class="nav-link active text-nowrap" aria-current="page" href="Melody.aspx">
+                            <a class="nav-link active text-nowrap" aria-current="page" href="melody.aspx">
                                 <i class="fa-solid fa-music me-2"></i>
-                                <b>Melody</b>
+                                <b>melody</b>
                             </a>
                         </li>
                         <li class="nav-item me-4"> 
-                            <a class="nav-link active text-nowrap" aria-current="page" href="ExhibitionCorner.aspx">
+                            <a class="nav-link active text-nowrap" aria-current="page" href="exhibitioncorner.aspx">
                                 <i class="fa-solid fa-wand-magic-sparkles me-2"></i>
-                                <b>Exhibition Corner</b>
+                                <b>exhibition corner</b>
                             </a>
                         </li>
                         <li class="nav-item me-4">
-                            <a class="nav-link active text-nowrap" aria-current="page" href="Help.aspx">
+                            <a class="nav-link active text-nowrap" aria-current="page" href="help.aspx">
                                 <i class="fa-solid fa-headset me-2"></i>
-                                <b>Help</b>
+                                <b>help</b>
                             </a>
                         </li>
                     </ul>
                 </div>
                 <div class="navigation d-flex align-items-center">
                     <div class="items">
-                        <a class="" href="Search.aspx">
+                        <a class="" href="search.aspx">
                             <b><i class="fa-solid fa-magnifying-glass"></i></b>
                         </a>
                     </div>
                     <div class="items">
-                        <a class="" href="Notification.aspx">
+                        <a class="" href="notification.aspx">
                             <b><i class="fa-regular fa-bell"></i></b>
                         </a>
                     </div>
                     <div class="items">
-                        <a class="" href="Upload.aspx">
+                        <a class="" href="upload.aspx">
                             <b><i class="fa-solid fa-arrow-up-from-bracket"></i></b>
                         </a>
                     </div>
@@ -84,30 +84,30 @@
                             <div class="col-lg-12">
                                 <div class="card">
                                     <div class="card-header ps-2 pt-1 pb-1">
-                                        <a class="ava-prof-menu d-flex align-items-center text-decoration-none" href="Profile.aspx">
+                                        <a class="ava-prof-menu d-flex align-items-center text-decoration-none" href="profile.aspx">
                                             <img src="images/avatar.jpg" style="height50px;"/>
                                             <div>
-                                                <span class="ms-3">Ly Ly</span>
+                                                <span class="ms-3">ly ly</span>
                                             </div>
                                         </a> 
                                     </div>
                                     <div class="card-body p-0">
-                                        <a class="ite mt-3 ps-4 pt-1 pb-1" href="Chatting.aspx">
-                                            <i class="fa-solid fa-comment me-4" style="font-size: 21px"></i>Chat
+                                        <a class="ite mt-3 ps-4 pt-1 pb-1" href="chatting.aspx">
+                                            <i class="fa-solid fa-comment me-4" style="font-size: 21px"></i>chat
                                         </a>
-                                        <a class="ite mt-2 ps-4 pt-1 pb-1" href="Collection.aspx">
-                                            <i class="fa-solid fa-bookmark me-4" style="font-size: 21px; margin-left:2px"></i> Collection
+                                        <a class="ite mt-2 ps-4 pt-1 pb-1" href="collection.aspx">
+                                            <i class="fa-solid fa-bookmark me-4" style="font-size: 21px; margin-left:2px"></i> collection
                                         </a>
-                                        <a class="ite mt-2 ps-4 pt-1 pb-1" href="ShoppingCart.aspx">
-                                            <i class="fa-solid fa-cart-shopping me-4" style="font-size: 20px"></i>Shopping cart
+                                        <a class="ite mt-2 ps-4 pt-1 pb-1" href="shoppingcart.aspx">
+                                            <i class="fa-solid fa-cart-shopping me-4" style="font-size: 20px"></i>shopping cart
                                         </a>
-                                        <a class="ite mt-2 ps-4 pt-1 pb-1" href="Setting.aspx">
-                                            <i class="fa-solid fa-gear me-4" style="font-size: 21px; margin-left:2px"></i>Setting
+                                        <a class="ite mt-2 ps-4 pt-1 pb-1" href="setting.aspx">
+                                            <i class="fa-solid fa-gear me-4" style="font-size: 21px; margin-left:2px"></i>setting
                                         </a>
                                     </div>
                                     <div class="card-footer p-0 mt-3">
-                                        <button class="bt text-nowrap rounded-3 w-100 p-1 mb-2"><b>Upgrade to enterprise</b></button>
-                                        <button class="bt w-100 rounded-3 w-100 p-1"><b>Log out</b></button>
+                                        <button class="bt text-nowrap rounded-3 w-100 p-1 mb-2"><b>upgrade to enterprise</b></button>
+                                        <button class="bt w-100 rounded-3 w-100 p-1"><b>log out</b></button>
                                     </div>
                                 </div>
                             </div>
@@ -128,7 +128,7 @@
         </form>
     </div>
     
-  <footer class="page-footer">
+ <footer class="page-footer">
         <div class="row">
             <div class="col-lg-6">
                 <div class="items-footer">
