@@ -14,7 +14,7 @@
                         <ItemTemplate>
                             <div class="notification-item">
                                 <asp:Button ID="Button1" runat="server" CommandArgument='<%# Eval("IDNOTIFICATION") %>'
-                                    Text='<%# Eval("CHITIETTHONGBAO") %>' width="1115px" Height="50px" CssClass="notification-button" />
+                                    Text='<%# Eval("CHITIETTHONGBAO") %>' width="1115   px" Height="50px" CssClass="notification-button" />
                             </div>
                         </ItemTemplate>
                     </asp:DataList>
