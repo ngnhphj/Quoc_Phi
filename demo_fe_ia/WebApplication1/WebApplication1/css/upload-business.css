@@ -1,0 +1,137 @@
+﻿.card-tong{
+    display: flex;
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 0px 5px 10px #6305D3; /* Đổ bóng màu tím với độ mờ 50% */
+    position: relative;
+    background-color: #fff;
+    max-width: 800px;
+    min-height: 450px;
+    margin: 10px; /* Khoảng cách giữa các khung */
+    margin-left: 15%;
+}
+
+
+.dauCong-button{
+    width: 200px; /* Độ rộng của nút */
+    height: 350px; /* Chiều cao của nút */
+    background-color: #f0f0f0; /* Màu nền của nút */
+    border: 1px solid #6305D3; /* Đường viền */
+    border-radius: 5px; /* Bo góc nếu muốn */
+    font-size: 100px; /* Kích thước chữ */
+    color: #6305D3;
+    text-align: center; /* Căn giữa nội dung */
+    line-height: 100px; /* Căn giữa theo chiều dọc */
+    cursor: pointer; /* Đổi con trỏ khi di chuột qua */
+}
+
+.form-group {
+    display: flex; /* Sử dụng flexbox để căn chỉnh */
+    align-items: center; /* Căn giữa theo chiều dọc */
+}
+
+.label-title {
+    font-weight: bold;
+    margin-right: 10px; /* Khoảng cách giữa label và textbox */
+}
+
+.text-box {
+    margin-right: 10px; /* Khoảng cách giữa textbox và nút */
+    padding: 5px; /* Thêm pad
+    
+    ding cho textbox */
+}
+
+.details-row-tenSP, .details-row-dropDown, .details-row-moTaSP{
+    margin-bottom: 30px;
+}
+.details-row-tenSP .text-box{
+    font-size: 14px;
+    padding: 5px 10px;
+    background-color: #fff; /* Nền trắng */
+    border: 1px solid #9400D3; /* Viền tím */
+    border-radius: 5px; /* Bo góc */
+    color: #333; /* Màu chữ tím */
+    margin-left: 50px; /* Khoảng cách với nhãn "Tên tác phẩm" */
+    box-shadow: 0px 0px 10px rgba(148, 0, 211, 0.1); /* Bóng đổ nhẹ */
+    width: 300px;
+}
+
+.details-row-dropDown .dropdown-category{
+    font-size: 14px;
+    padding: 5px 10px;
+    background-color: #fff; /* Nền trắng */
+    border: 1px solid #9400D3; /* Viền tím */
+    border-radius: 5px; /* Bo góc */
+    color: #333; /* Màu chữ tím */
+    margin-left: 70px; /* Khoảng cách với nhãn "Tên tác phẩm" */
+    box-shadow: 0px 0px 10px rgba(148, 0, 211, 0.1); /* Bóng đổ nhẹ */
+    width: 300px;
+}
+
+.details-row-moTaSP .text-box{
+    font-size: 14px;
+    padding: 5px;
+    background-color: #fff; /* Nền trắng */
+    border: 1px solid #9400D3; /* Viền tím */
+    border-radius: 5px; /* Bo góc */
+    color: #333; /* Màu chữ tím */
+    margin-left: 180px; /* Khoảng cách với nhãn "Tên tác phẩm" */
+    box-shadow: 0px 0px 10px rgba(148, 0, 211, 0.1); /* Bóng đổ nhẹ */
+    width: 300px;
+    height: 100px;
+}
+
+.price-and-button {
+    display: flex;
+    align-items: center; /* Căn giữa các thành phần theo chiều dọc */
+    gap: 10px; /* Khoảng cách giữa TextBox và Button */
+}
+
+.label-price .text-box {
+    width: 250px; /* Điều chỉnh chiều rộng TextBox nếu cần */
+    border: 1px solid #9400D3;
+    border-radius: 5px;
+    font-size: 20px;
+}
+
+.info-box {
+    display: inline-block; /* Đảm bảo Button nằm ngang hàng */
+    margin-left: auto /* Đẩy Button sang bên phải */
+}
+
+.post-label {
+    background-color: #fff; /* Nền trắng */
+    border: 1px solid #9400D3; /* Khung màu tím */
+    color: #9400D3; /* Chữ màu tím */
+    padding: 5px 10px; /* Thêm khoảng cách bên trong */
+    border-radius: 5px; /* Bo góc */
+    display: inline-block; /* Giữ khung với nội dung bên trong */
+    transition: background-color 0.3s, color 0.3s; /* Hiệu ứng chuyển màu mượt */
+    width: 250px;
+    font-size: 20px;
+    text-align: center;
+}
+
+.post-label:hover {
+    background-color: #9400D3; /* Nền chuyển sang màu tím khi di chuột */
+    color: #fff; /* Chữ chuyển sang màu trắng khi di chuột */
+}
+
+.button-post {
+    background-color: transparent; /* Để nền của nút trong suốt */
+    color: inherit; /* Lấy màu từ `post-label` */
+    border: none; /* Xóa viền của nút */
+    font-weight: bold;
+    cursor: pointer; /* Thay đổi con trỏ khi di chuột */
+}
+
+
+
+
+
+
+
+
+
+

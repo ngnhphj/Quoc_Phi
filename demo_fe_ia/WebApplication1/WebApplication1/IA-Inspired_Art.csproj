@@ -104,6 +104,7 @@
     <Content Include="css\css_photos.css" />
     <Content Include="css\css_profile.css" />
     <Content Include="css\product-business.css" />
+    <Content Include="css\upload-business.css" />
     <Content Include="ExhibitionCorner.aspx" />
     <Content Include="Global.asax" />
     <Content Include="Help.aspx" />
