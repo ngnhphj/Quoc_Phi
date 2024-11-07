@@ -1,0 +1,152 @@
+﻿#row-tong {
+    display: flex;
+    justify-content: center;
+}
+.label-1{
+    margin-bottom: 30px;
+}
+
+.row-wrapper {
+    display: flex;
+    width: 90%; /* Tăng chiều rộng tổng thể của khung chứa */
+    min-height: 500px; /* Tăng chiều cao tối thiểu của khung chứa */
+    padding: 20px; /* Khoảng cách bên trong khung chứa */
+    box-sizing: border-box; /* Đảm bảo padding không làm thay đổi kích thước */
+    /* background-color: #f9f9f9; */
+}
+
+.row-1 {
+    flex: 0 0 60%;
+    padding: 10px;
+    /* Thêm style tùy ý */
+}
+
+.row-2 {
+    flex: 0 0 30%;
+    padding: 10px;
+    /* Thêm style tùy ý */
+}
+
+.first-last-name{
+    display: flex;
+    gap: 10px;
+}
+
+.form-group {
+    display: flex;
+    flex-direction: column;
+}
+
+.form-group label {
+    margin-top: 10px; /* Khoảng cách giữa Label và TextBox */
+}
+.form-group text{
+    margin-top: 20px;
+}
+
+
+.form-group asp\:TextBox,
+.form-group input[type="text"] { /* Chọn tất cả TextBox */
+    padding: 8px; /* Thêm khoảng đệm bên trong khung */
+    font-size: 14px;
+    border: 1px solid #ccc; /* Tạo viền */
+    border-radius: 4px; /* Bo góc khung */
+    width: 100%; /* Đặt chiều rộng 100% để chiếm hết không gian */
+    box-sizing: border-box; /* Đảm bảo kích thước bao gồm padding và viền */
+}
+
+.form-group asp\:TextBox:focus,
+.form-group input[type="text"]:focus { /* Hiệu ứng khi chọn TextBox */
+    border-color: #007bff; /* Đổi màu viền khi chọn */
+    outline: none; /* Bỏ viền outline mặc định */
+}
+
+
+.form-group asp\:TextBox,
+.form-group asp\:DropDownList,
+.form-group select { /* Thêm select để hỗ trợ DropDownList */
+    padding: 8px;
+    font-size: 14px;
+    border: 1px solid #ccc; /* Tạo viền khung */
+    border-radius: 4px; /* Bo góc */
+    width: 100%; /* Chiều rộng đầy đủ */
+    box-sizing: border-box; /* Đảm bảo không bị tràn */
+}
+
+.form-group asp\:DropDownList:focus, 
+.form-group select:focus {
+    border-color: #007bff; /* Đổi màu viền khi focus */
+    outline: none;
+}
+
+.label-2 {
+    display: flex;
+    padding-bottom: 5px;
+    border-bottom: 1px solid #333; /* Đặt màu và độ dày cho đường viền dưới */
+    gap: 50px;
+    
+}
+.label-2 asp:Label {
+    margin-right: 30px; /* Khoảng cách giữa hai nhãn */
+}
+
+
+
+.form-group1 {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 0;
+    font-size: 13px;
+}
+
+.form-group1 asp\:Label {
+    font-weight: bold;
+}
+
+.form-group1 asp\:Label:last-child {
+    text-align: right;
+}
+
+.form-group1 .text-1{
+    margin-left: 10pc;
+}
+.form-group1 .text-2{
+    margin-left: 100px;
+}
+
+.label-3{
+    border-top: 1px solid #333;
+    font-size: 30px;
+}
+
+
+
+/* Định dạng chung cho các nút */
+button {
+    font-size: 16px;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    display: inline-flex;
+    align-items: center;
+}
+
+
+
+/* Button1: Khung và biểu tượng "<" */
+.button1 {
+    border: 2px solid #333;
+    padding-left: 20px;  /* Khoảng cách giữa biểu tượng và văn bản */
+}
+
+
+
+/* Button2: Nền đen, chữ trắng và biểu tượng "->" */
+.button2 {
+    background-color: black;
+    color: white;
+    padding-right: 20px;  /* Khoảng cách giữa biểu tượng và văn bản */
+    margin-left: 22%;
+    height: 50px;
+}
+
