@@ -25,7 +25,7 @@
     <br />
     <asp:DataList ID="DSAUCTIONS" runat="server">
         <ItemTemplate>
-            <asp:ImageButton ID="ImageButton2" runat="server" CommandArgument='<%# Eval("IDAUCTION") %>' ImageUrl='<%# "img_realtimeauctions/"+Eval("ANHTACGIA") %>' />
+            <asp:ImageButton ID="ImageButton2" runat="server" CommandArgument='<%# Eval("IDAUCTION") %>' ImageUrl='<%# "images/img_realtimeauctions/"+Eval("ANHTACGIA") %>' />
             <asp:Button ID="Button8" runat="server" Text="Button" />
         </ItemTemplate>
     </asp:DataList>
