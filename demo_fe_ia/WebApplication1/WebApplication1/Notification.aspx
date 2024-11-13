@@ -6,13 +6,13 @@
     <div class="wrapper">
         <div class="row">
             <div class="col-lg-12">
-                <div class="text-container mt-4">
-                    <asp:Label ID="Label1" runat="server" Text="NOTIFICATIONS"></asp:Label>
+                <div class="text-container mt-3" style="width: 100%;">
+                    <asp:Label ID="Label1" runat="server" Text="NOTIFICATIONS" CssClass="text-notification" style="padding-left: 40%;"></asp:Label>
                 </div>
                 <div class="thongBao-container">
                     <asp:DataList ID="DSTHONGBAO" runat="server">
                         <ItemTemplate>
-                            <div class="notification-item">
+                            <div class="notification-item" style="width: 80%; margin-left: 15px;">
                                 <asp:Button ID="Button1" runat="server" CommandArgument='<%# Eval("IDNOTIFICATION") %>'
                                     Text='<%# Eval("CHITIETTHONGBAO") %>' width="1115   px" Height="50px" CssClass="notification-button" />
                             </div>

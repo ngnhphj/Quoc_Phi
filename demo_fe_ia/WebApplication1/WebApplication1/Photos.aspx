@@ -7,7 +7,7 @@
                 <asp:DataList ID="DSQUANGCAO" runat="server" CssClass="quangCaoList">
 
                     <ItemTemplate>
-                        <div class="card d-flex flex-column">
+                        <div class="card d-flex flex-column" style="margin-bottom: 20px;">
                             <asp:ImageButton ID="ImageButton1" class="quangCao1" runat="server"
                                 CommandArgument='<%# Eval("IDQUANGCAO") %>'
                                 ImageUrl='<%# "photo_img/"+Eval("ANHQUANGCAO") %>' />

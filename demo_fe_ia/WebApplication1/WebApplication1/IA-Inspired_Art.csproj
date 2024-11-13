@@ -103,6 +103,7 @@
     <Content Include="css\css_notification.css" />
     <Content Include="css\css_photos.css" />
     <Content Include="css\css_profile.css" />
+    <Content Include="css\exhibiton.css" />
     <Content Include="css\oder-details.css" />
     <Content Include="css\product-business.css" />
     <Content Include="css\upload-business.css" />

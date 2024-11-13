@@ -5,10 +5,14 @@
     color: #6305D3;
     border: 2px; /* Đặt viền đen dày 2px */
     background-color: #f9f9f9; /* Màu nền của khung */
-    width: 70%px; /* Đặt chiều rộng khung */
+    width: 50%; /* Đặt chiều rộng khung */
     height: 50px;
     box-shadow: 0 5px 10px #6305D3;
     position: relative;
+}
+
+.text-notification{
+    justify-content: center;
 }
 
 .notification-item{
