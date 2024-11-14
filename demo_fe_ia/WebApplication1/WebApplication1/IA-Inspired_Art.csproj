@@ -142,6 +142,7 @@
     <Content Include="img_collection\COLLECTION4.jpg" />
     <Content Include="img_topmusic\MUSIC.jpeg" />
     <Content Include="img_toppainting\LOVEBYTHELAKE.jpeg" />
+    <Content Include="js\js_collection.js" />
     <Content Include="js\js_login.js" />
     <Content Include="js\js_profile.js" />
     <Content Include="Login.aspx" />

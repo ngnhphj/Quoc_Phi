@@ -1,9 +1,14 @@
 ﻿/* Container tổng thể */
 .col-lg-12 {
-    width: 100%;
-    max-width: 900px;
-    margin: 10px auto;
+    max-width: 100%;
+    /* margin: 10px auto; */
 }
+
+/* .container .painting-catalog{
+    width: 100%;
+    height: auto;
+} */
+
 
 /* Header chứa Label1 và Button1 */
 .catalog-header {
@@ -15,6 +20,7 @@
     font-size: 25px;
     font-weight: bold;
     color: #6305D3;
+    align-items: center;
 }
 
 .large-box {
@@ -27,6 +33,17 @@
     height: auto;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
 }
+
+.large-box-1{
+    
+    width: 200px; /* Chiều rộng của khung */
+    height: 250px; /* Chiều cao của khung */
+    border: 3px solid #7d1fa3; /* Màu và độ dày khung */
+    border-radius: 10px; /* Bo góc */
+    padding: 12px; /* Khoảng cách bên trong */
+   
+    
+}
 .button-dauCong{
     font-size: 120px;
     color: #7d1fa3;
@@ -34,6 +51,7 @@
     width: 170px;
     height: auto;
     background-color: white;
+    /* margin-top: 10px; */
 }
 
 .button-container button {

@@ -3,24 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\webapplication1\\exhibitioncorner.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|solutionrelative:webapplication1\\exhibitioncorner.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|c:\\users\\trana\\documents\\github\\quoc_phi\\demo_fe_ia\\webapplication1\\webapplication1\\collection.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|solutionrelative:webapplication1\\collection.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\webapplication1\\js\\js_collection.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|solutionrelative:webapplication1\\js\\js_collection.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\webapplication1\\exhibitioncorner.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|solutionrelative:webapplication1\\exhibitioncorner.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\webapplication1\\css\\css_collection.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|solutionrelative:webapplication1\\css\\css_collection.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\webapplication1\\notification.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|solutionrelative:webapplication1\\notification.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\webapplication1\\photos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|solutionrelative:webapplication1\\photos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\webapplication1\\notification.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|solutionrelative:webapplication1\\notification.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\webapplication1\\css\\exhibiton.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
@@ -152,7 +156,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 34,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -164,20 +168,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ExhibitionCorner.aspx",
-              "DocumentMoniker": "C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\ExhibitionCorner.aspx",
-              "RelativeDocumentMoniker": "WebApplication1\\ExhibitionCorner.aspx",
-              "ToolTip": "C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\ExhibitionCorner.aspx*",
-              "RelativeToolTip": "WebApplication1\\ExhibitionCorner.aspx*",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-11-12T14:03:55.991Z",
-              "EditorCaption": ""
+              "DocumentIndex": 1,
+              "Title": "js_collection.js",
+              "DocumentMoniker": "C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\js\\js_collection.js",
+              "RelativeDocumentMoniker": "WebApplication1\\js\\js_collection.js",
+              "ToolTip": "C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\js\\js_collection.js",
+              "RelativeToolTip": "WebApplication1\\js\\js_collection.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-13T16:40:32.173Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "ExhibitionCorner.aspx",
+              "DocumentMoniker": "C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\ExhibitionCorner.aspx",
+              "RelativeDocumentMoniker": "WebApplication1\\ExhibitionCorner.aspx",
+              "ToolTip": "C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\ExhibitionCorner.aspx",
+              "RelativeToolTip": "WebApplication1\\ExhibitionCorner.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-12T14:03:55.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Collection.aspx",
               "DocumentMoniker": "C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Collection.aspx",
               "RelativeDocumentMoniker": "WebApplication1\\Collection.aspx",
@@ -190,16 +205,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "css_collection.css",
               "DocumentMoniker": "C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\css\\css_collection.css",
               "RelativeDocumentMoniker": "WebApplication1\\css\\css_collection.css",
               "ToolTip": "C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\css\\css_collection.css",
               "RelativeToolTip": "WebApplication1\\css\\css_collection.css",
-              "ViewState": "AgIAACcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-11-12T02:05:09.135Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-12T02:05:09.135Z"
             },
             {
               "$type": "Document",
@@ -211,12 +225,11 @@
               "RelativeToolTip": "WebApplication1\\Photos.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-11-04T13:51:44.95Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-04T13:51:44.95Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Notification.aspx",
               "DocumentMoniker": "C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Notification.aspx",
               "RelativeDocumentMoniker": "WebApplication1\\Notification.aspx",
@@ -224,12 +237,11 @@
               "RelativeToolTip": "WebApplication1\\Notification.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-11-04T13:51:44.95Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-04T13:51:44.95Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "LopKetNoi.cs",
               "DocumentMoniker": "C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\LopKetNoi.cs",
               "RelativeDocumentMoniker": "WebApplication1\\LopKetNoi.cs",
@@ -237,12 +249,11 @@
               "RelativeToolTip": "WebApplication1\\LopKetNoi.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAADVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-04T13:51:44.953Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-04T13:51:44.953Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "exhibiton.css",
               "DocumentMoniker": "C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\css\\exhibiton.css",
               "RelativeDocumentMoniker": "WebApplication1\\css\\exhibiton.css",
@@ -254,7 +265,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Post.aspx",
               "DocumentMoniker": "C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Post.aspx",
               "RelativeDocumentMoniker": "WebApplication1\\Post.aspx",
@@ -262,12 +273,11 @@
               "RelativeToolTip": "WebApplication1\\Post.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-11-04T13:51:44.956Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-04T13:51:44.956Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Menu.Master",
               "DocumentMoniker": "C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Menu.Master",
               "RelativeDocumentMoniker": "WebApplication1\\Menu.Master",
@@ -280,7 +290,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "OrderDetails.aspx",
               "DocumentMoniker": "C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\OrderDetails.aspx",
               "RelativeDocumentMoniker": "WebApplication1\\OrderDetails.aspx",
@@ -288,12 +298,11 @@
               "RelativeToolTip": "WebApplication1\\OrderDetails.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-11-05T13:52:48.306Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-05T13:52:48.306Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Product.aspx",
               "DocumentMoniker": "C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Product.aspx",
               "RelativeDocumentMoniker": "WebApplication1\\Product.aspx",
@@ -301,12 +310,11 @@
               "RelativeToolTip": "WebApplication1\\Product.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-11-04T13:51:44.918Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-04T13:51:44.918Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "Chatting.aspx",
               "DocumentMoniker": "C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Chatting.aspx",
               "RelativeDocumentMoniker": "WebApplication1\\Chatting.aspx",
@@ -314,12 +322,11 @@
               "RelativeToolTip": "WebApplication1\\Chatting.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-11-12T15:21:41.436Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-12T15:21:41.436Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "ExhibitionCorner.aspx.cs",
               "DocumentMoniker": "C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\ExhibitionCorner.aspx.cs",
               "RelativeDocumentMoniker": "WebApplication1\\ExhibitionCorner.aspx.cs",
@@ -327,12 +334,11 @@
               "RelativeToolTip": "WebApplication1\\ExhibitionCorner.aspx.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T15:22:06.19Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-12T15:22:06.19Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "PhotoDetails.aspx",
               "DocumentMoniker": "C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\PhotoDetails.aspx",
               "RelativeDocumentMoniker": "WebApplication1\\PhotoDetails.aspx",
@@ -340,12 +346,11 @@
               "RelativeToolTip": "WebApplication1\\PhotoDetails.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-11-05T13:52:56.391Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-05T13:52:56.391Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "product-business.css",
               "DocumentMoniker": "C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\css\\product-business.css",
               "RelativeDocumentMoniker": "WebApplication1\\css\\product-business.css",
@@ -353,12 +358,11 @@
               "RelativeToolTip": "WebApplication1\\css\\product-business.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-11-04T15:35:37.343Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-04T15:35:37.343Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "oder-details.css",
               "DocumentMoniker": "C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\css\\oder-details.css",
               "RelativeDocumentMoniker": "WebApplication1\\css\\oder-details.css",
@@ -366,12 +370,11 @@
               "RelativeToolTip": "WebApplication1\\css\\oder-details.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-11-06T19:28:27.411Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-06T19:28:27.411Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "OrderDetails.aspx.cs",
               "DocumentMoniker": "C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\OrderDetails.aspx.cs",
               "RelativeDocumentMoniker": "WebApplication1\\OrderDetails.aspx.cs",
@@ -379,12 +382,11 @@
               "RelativeToolTip": "WebApplication1\\OrderDetails.aspx.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAgwBIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T00:16:46.646Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-06T00:16:46.646Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "Upload.aspx",
               "DocumentMoniker": "C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Upload.aspx",
               "RelativeDocumentMoniker": "WebApplication1\\Upload.aspx",
@@ -392,12 +394,11 @@
               "RelativeToolTip": "WebApplication1\\Upload.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-11-05T13:51:09.186Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-05T13:51:09.186Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "upload-business.css",
               "DocumentMoniker": "C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\css\\upload-business.css",
               "RelativeDocumentMoniker": "WebApplication1\\css\\upload-business.css",
@@ -405,12 +406,11 @@
               "RelativeToolTip": "WebApplication1\\css\\upload-business.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-11-05T14:11:42.882Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-05T14:11:42.882Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "Setting.aspx",
               "DocumentMoniker": "C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Setting.aspx",
               "RelativeDocumentMoniker": "WebApplication1\\Setting.aspx",
@@ -418,12 +418,11 @@
               "RelativeToolTip": "WebApplication1\\Setting.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-11-05T13:52:59.498Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-05T13:52:59.498Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "ShoppingCart.aspx",
               "DocumentMoniker": "C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\ShoppingCart.aspx",
               "RelativeDocumentMoniker": "WebApplication1\\ShoppingCart.aspx",
@@ -431,12 +430,11 @@
               "RelativeToolTip": "WebApplication1\\ShoppingCart.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-11-05T13:53:00.338Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-05T13:53:00.338Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "Profile.aspx",
               "DocumentMoniker": "C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Profile.aspx",
               "RelativeDocumentMoniker": "WebApplication1\\Profile.aspx",
@@ -444,12 +442,11 @@
               "RelativeToolTip": "WebApplication1\\Profile.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-11-04T13:51:44.958Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-04T13:51:44.958Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "css_notification.css",
               "DocumentMoniker": "C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\css\\css_notification.css",
               "RelativeDocumentMoniker": "WebApplication1\\css\\css_notification.css",
@@ -457,12 +454,11 @@
               "RelativeToolTip": "WebApplication1\\css\\css_notification.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-11-04T13:51:44.949Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-04T13:51:44.949Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "Product.aspx.cs",
               "DocumentMoniker": "C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Product.aspx.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Product.aspx.cs",
@@ -470,12 +466,11 @@
               "RelativeToolTip": "WebApplication1\\Product.aspx.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAgwBEAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-04T13:51:44.312Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-04T13:51:44.312Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "dbo.PRODUCT.sql",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_ACER_ONEDRIVE_DOCUMENTS_GITHUB_QUOC_PHI_DEMO_FE_IA_WEBAPPLICATION1_WEBAPPLICATION1_APP_DATA_DATABASE1.MDF/True/SqlTable/dbo.PRODUCT.sql",
               "ToolTip": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_ACER_ONEDRIVE_DOCUMENTS_GITHUB_QUOC_PHI_DEMO_FE_IA_WEBAPPLICATION1_WEBAPPLICATION1_APP_DATA_DATABASE1.MDF/True/SqlTable/dbo.PRODUCT.sql",
@@ -484,7 +479,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 30,
               "Title": "Post.aspx.cs",
               "DocumentMoniker": "C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Post.aspx.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Post.aspx.cs",
@@ -496,7 +491,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "Home.aspx",
               "DocumentMoniker": "C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Home.aspx",
               "RelativeDocumentMoniker": "WebApplication1\\Home.aspx",
@@ -508,7 +503,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "Photos.aspx.cs",
               "DocumentMoniker": "C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Photos.aspx.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Photos.aspx.cs",
@@ -520,7 +515,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "dbo.IMGCOLLECTION.sql",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_TRANA_DOCUMENTS_D\u1EF0_\u00C1N_QUOC_PHI_DEMO_FE_IA_WEBAPPLICATION1_WEBAPPLICATION1_APP_DATA_DATABASE1.MDF/True/SqlTable/dbo.IMGCOLLECTION.sql",
               "ToolTip": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_TRANA_DOCUMENTS_D\u1EF0_\u00C1N_QUOC_PHI_DEMO_FE_IA_WEBAPPLICATION1_WEBAPPLICATION1_APP_DATA_DATABASE1.MDF/True/SqlTable/dbo.IMGCOLLECTION.sql",
@@ -529,7 +524,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 29,
               "Title": "css_photos.css",
               "DocumentMoniker": "C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\css\\css_photos.css",
               "RelativeDocumentMoniker": "WebApplication1\\css\\css_photos.css",
@@ -541,7 +536,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 31,
               "Title": "Web.config",
               "DocumentMoniker": "C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Web.config",
               "RelativeDocumentMoniker": "WebApplication1\\Web.config",
@@ -554,7 +549,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 32,
               "Title": "Post.aspx.designer.cs",
               "DocumentMoniker": "C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Post.aspx.designer.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Post.aspx.designer.cs",
@@ -566,7 +561,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 33,
               "Title": "packages.config",
               "DocumentMoniker": "C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\packages.config",
               "RelativeDocumentMoniker": "WebApplication1\\packages.config",
@@ -578,7 +573,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 34,
               "Title": "Melody.aspx",
               "DocumentMoniker": "C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Melody.aspx",
               "RelativeDocumentMoniker": "WebApplication1\\Melody.aspx",
@@ -590,7 +585,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 35,
               "Title": "Profile.aspx.cs",
               "DocumentMoniker": "C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Profile.aspx.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Profile.aspx.cs",
@@ -602,7 +597,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 36,
               "Title": "css_profile.css",
               "DocumentMoniker": "C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\css\\css_profile.css",
               "RelativeDocumentMoniker": "WebApplication1\\css\\css_profile.css",

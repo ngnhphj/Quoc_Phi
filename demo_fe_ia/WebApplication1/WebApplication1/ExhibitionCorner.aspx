@@ -175,15 +175,6 @@
             </div>
         </div>
 
-        </div>
-
-        <script>
-            // JavaScript để hiển thị section2 khi nhấn Button2
-            function showSection2() {
-                // Ẩn phần 1 và hiển thị phần 2
-                document.getElementById('section1').style.display = 'none';
-                document.getElementById('section2').style.display = 'block';
-            }
-        </script>
+     <%--   </div>--%>
 
     </asp:Content>

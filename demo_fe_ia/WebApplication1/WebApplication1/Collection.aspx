@@ -12,18 +12,21 @@
                         style="font-weight: bold;color: #6305D3; margin-left:30pc; font-size: 20px;"
                         OnClientClick="showAllItems(); return false;" />
                     &nbsp;<br />
+
                 </div>
 
-                <div class="catalog-content">
-                    <div class="large-box" style="margin-left: 10px;">
+                <div class="catalog-content" style="display: flex; align-items: center;">
+                    <div class="large-box" style="margin-left: 20px;">
                         <div class="button-container">
                             <asp:Button ID="Button2" runat="server" Text="+" OnClick="Button2_Click"
                                 CssClass="button-dauCong" />
-
                         </div>
-
                         <asp:Label ID="Label2" runat="server" Text="Add new collection" CssClass="label-2"></asp:Label>
+                    </div>
 
+                    <div class="video-container">
+                        <video src="video-ex/video-4.mp4" autoplay muted loop width="500px"
+                            style="margin-left: 23%; border: 2px solid #7d1fa3; border-radius: 20px;"></video>
                     </div>
                 </div>
             </div>
@@ -83,12 +86,19 @@
             <br />
         </div>
 
-        <div class="large-box" style="margin: 0 30px;">
-            <div class="button-container">
-                <asp:Button ID="Button4" runat="server" Text="+" CssClass="button-dauCong" />
-                &nbsp;&nbsp; Add new collection <br />
+        <div class="music-content" style="display: flex;">
+            <div class="large-box-1" style="margin: 0 30px;">
+                <div class="button-container">
+                    <asp:Button ID="Button4" runat="server" Text="+" CssClass="button-dauCong" />
+                        <h1 style="font-size: 16px; font-weight: bold; color: #7d1fa3;  margin: 10px;">Add new collection</h1>
+                </div>
+            </div>
+            <div class="video-container">
+                <video src="video-ex/video-6.mp4" autoplay muted loop width="500px" style="margin-left: 17%;
+                 border: 2px solid #7d1fa3; border-radius: 20px;"></video>
             </div>
         </div>
+
 
 
         <!-- <div class="container music-catalog"> -->
@@ -128,15 +138,6 @@
                 </div>
             </ItemTemplate>
         </asp:DataList>
+        <script src="js/js_collection.js"></script>
 
-
-        <script type="text/javascript">
-           function showAllItems(){
-            // lấy tất cả các khung ảnh ẩn
-            const hiddenItems = document.querySelectorAll('.hidden');
-            hiddenItems.forEach(item => {
-                item.classList.remove('hiden');
-            });
-           }
-        </script>
     </asp:Content>
