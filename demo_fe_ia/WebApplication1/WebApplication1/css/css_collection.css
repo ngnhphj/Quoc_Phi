@@ -102,3 +102,7 @@
 .hidden{
     display: none;
 }
+
+.gradient-border{
+    padding: 10px;
+}

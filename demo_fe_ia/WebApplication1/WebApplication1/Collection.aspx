@@ -8,9 +8,6 @@
             <div class="col-lg-12">
                 <div class="catalog-header">
                     <asp:Label ID="Label1" runat="server" Text="Painting Catalog"></asp:Label>
-                    <asp:Button ID="Button1" runat="server" Text="See all" CssClass="see-all-button-painting"
-                        style="font-weight: bold;color: #6305D3; margin-left:30pc; font-size: 20px;"
-                        OnClientClick="showAllItems(); return false;" />
                     &nbsp;<br />
 
                 </div>
@@ -25,8 +22,27 @@
                     </div>
 
                     <div class="video-container">
-                        <video src="video-ex/video-4.mp4" autoplay muted loop width="500px"
-                            style="margin-left: 23%; border: 2px solid #7d1fa3; border-radius: 20px;"></video>
+                        <style>
+                            @keyframes blink {
+                                0%, 100% { border-color: #e74c3c; }
+                                50% { border-color: #f1c40f; }
+                            }
+                        
+                            .blinking-border {
+                                margin-left: 45%;
+                                padding: 20px;
+                                border: 3px solid #e74c3c;
+                                border-radius: 10px;
+                                animation: blink 1s infinite;
+                                text-align: center;
+                                width: 500px;
+                                background-image: linear-gradient(to right, #3498db, #8e44ad);
+                            }
+                        </style>
+                        
+                        <video src="video-ex/video-4.mp4" autoplay muted loop class="blinking-border"></video>
+                        
+                        <!-- border: 2px solid #7d1fa3; border-radius: 20px; -->
                     </div>
                 </div>
             </div>
@@ -81,21 +97,46 @@
 
         <div class="catalog-header">
             <asp:Label ID="Label3" runat="server" Text="Music catalog"></asp:Label>
-            <asp:Button ID="Button3" runat="server" Text="See all" CssClass="see-all-button-music"
-                style="font-weight: bold;color: #6305D3; margin-left:30pc; font-size: 20px;" />
             <br />
         </div>
 
+        <br><br>
         <div class="music-content" style="display: flex;">
             <div class="large-box-1" style="margin: 0 30px;">
                 <div class="button-container">
                     <asp:Button ID="Button4" runat="server" Text="+" CssClass="button-dauCong" />
-                        <h1 style="font-size: 16px; font-weight: bold; color: #7d1fa3;  margin: 10px;">Add new collection</h1>
+                    <h1 style="font-size: 16px; font-weight: bold; color: #7d1fa3;  margin: 10px;">Add new collection
+                    </h1>
                 </div>
             </div>
             <div class="video-container">
-                <video src="video-ex/video-6.mp4" autoplay muted loop width="500px" style="margin-left: 17%;
-                 border: 2px solid #7d1fa3; border-radius: 20px;"></video>
+                <style>
+                    @keyframes blink {
+                        0%, 100% { border-color: #7d1fa3; }
+                        50% { border-color: #f1c40f; }
+                    }
+                
+                    .video-container {
+                        display: flex;
+                        justify-content: center;
+                        
+                    }
+                
+                    .blinking-border-1 {
+                        margin-left: 35%;
+                        border: 2px solid #7d1fa3;
+                        border-radius: 20px;
+                        background-image: linear-gradient(to right, #3498db, #8e44ad);
+                        animation: blink 1s infinite;
+                        width: 500px;
+                        
+                    }
+                </style>
+                
+                <div class="video-container">
+                    <video src="video-ex/video-6.mp4" autoplay muted loop class="blinking-border-1"></video>
+                </div>
+                
             </div>
         </div>
 

@@ -13,15 +13,15 @@
 
   </head>
   <body>
- <%-- <header class="page-header">
+  <header class="page-header">
         <nav class="fixed-top navbar navbar-expand-lg bg-body-white">
-            <div class="container-fluid">--%>
+            <div class="container-fluid">
                 <%--logo--%>
-             <%-- <a href="Home.aspx">
+              <a href="Home.aspx">
                     <img class="logo me-3" src="images/lg_IA.jpg" />
-                </a>--%>
+                </a>
                 <%--menu--%>
-               <%--<button class="navbar-toggler " type="button" data-bs-toggle="collapse" data-bs-target="#navbarsupportedcontent" aria-controls="navbarsupportedcontent" aria-expanded="false" aria-label="toggle navigation">
+               <button class="navbar-toggler " type="button" data-bs-toggle="collapse" data-bs-target="#navbarsupportedcontent" aria-controls="navbarsupportedcontent" aria-expanded="false" aria-label="toggle navigation">
                     <span class="navbar-toggler-icon float"></span>
                 </button>
                 <div class="collapse navbar-collapse" id="navbarsupportedcontent">
@@ -116,7 +116,7 @@
                 </div>
             </div>
         </nav>
-    </header>--%>
+    </header>
 
     <%--content--%>
     <div class="container">
@@ -128,18 +128,18 @@
         </form>
     </div>
     
-<%-- <footer class="page-footer">
+ <footer class="page-footer">
         <div class="row">
             <div class="col-lg-6">
                 <div class="items-footer">
                     <div class="d-flex align-items-center mb-3">
                         <div class="bord ">
-                            <img src="images/lg_IA.jpg"/>
+                            <img src="images/lg_ia.jpg"/>
                         </div> 
-                        <span class="ps-3">Inspired Art</span>
+                        <span class="ps-3">inspired art</span>
                     </div>
                     
-                    <p>The creative work opens up a vivid artistic experience through the fusion of sight and sound.</p>
+                    <p>the creative work opens up a vivid artistic experience through the fusion of sight and sound.</p>
                     
                     <div class="mb-4 mt-4">
                         <div class="location d-flex align-items-center  mb-3">
@@ -149,12 +149,12 @@
                     
                         <div class="location d-flex align-items-center  mb-3">
                             <i class="fa-solid fa-location-dot" style="font-size: 21px"></i>
-                            <p class="mb-0 ms-3">Duy Tan University, Da Nang City</p>
+                            <p class="mb-0 ms-3">duy tan university, da nang city</p>
                         </div>
 
                         <div class="location d-flex align-items-center  mb-3">
                             <i class="fa-solid fa-envelope" style="font-size: 21px"></i>
-                            <p class="mb-0 ms-3">Maiamhoahong@gmail.com</p>
+                            <p class="mb-0 ms-3">maiamhoahong@gmail.com</p>
                         </div>
                     </div>
                     
@@ -179,46 +179,46 @@
             </div>
             <div class="col-lg-2 ps-5">
                 <div class="mt-2 mb-4 pt-1">
-                    <span>About us</span>
+                    <span>about us</span>
                 </div>
                 
                 <div class="d-flex flex-column pt-1">
-                    <a class="mb-3" href="Home.aspx">Home</a>
-                    <a class="mb-3" href="Photos.aspx">Photos</a>
-                    <a class="mb-3" href="Melody.aspx">Melody</a>
-                    <a class="mb-3" href="ExhibitionCorner.aspx">Exhibition Corner</a>
-                    <a class="mb-3" href="Help.aspx">Help</a>
+                    <a class="mb-3" href="home.aspx">home</a>
+                    <a class="mb-3" href="photos.aspx">photos</a>
+                    <a class="mb-3" href="melody.aspx">melody</a>
+                    <a class="mb-3" href="exhibitioncorner.aspx">exhibition corner</a>
+                    <a class="mb-3" href="help.aspx">help</a>
                 </div>
                 
             </div>
             <div class="col-lg-2">
                 <div class="mt-2 mb-4 pt-1">
-                    <span>Services</span>
+                    <span>services</span>
                 </div>
                 
                 <div class="d-flex flex-column pt-1">
-                    <a class="mb-3" href="Home.aspx">Home</a>
-                    <a class="mb-3" href="Photos.aspx">Photos</a>
-                    <a class="mb-3" href="Melody.aspx">Melody</a>
-                    <a class="mb-3" href="ExhibitionCorner.aspx">Exhibition Corner</a>
-                    <a class="mb-3" href="Help.aspx">Help</a>
+                    <a class="mb-3" href="home.aspx">home</a>
+                    <a class="mb-3" href="photos.aspx">photos</a>
+                    <a class="mb-3" href="melody.aspx">melody</a>
+                    <a class="mb-3" href="exhibitioncorner.aspx">exhibition corner</a>
+                    <a class="mb-3" href="help.aspx">help</a>
                 </div>
             </div>
             <div class="col-lg-2">
                 <div class="mt-2 mb-4 pt-1">
-                    <span>Customer Support</span>
+                    <span>customer support</span>
                 </div>
                 
                 <div class="d-flex flex-column pt-1">
-                    <a class="mb-3" href="Home.aspx">Home</a>
-                    <a class="mb-3" href="Photos.aspx">Photos</a>
-                    <a class="mb-3" href="Melody.aspx">Melody</a>
-                    <a class="mb-3" href="ExhibitionCorner.aspx">Exhibition Corner</a>
-                    <a class="mb-3" href="Help.aspx">Help</a>
+                    <a class="mb-3" href="home.aspx">home</a>
+                    <a class="mb-3" href="photos.aspx">photos</a>
+                    <a class="mb-3" href="melody.aspx">melody</a>
+                    <a class="mb-3" href="exhibitioncorner.aspx">exhibition corner</a>
+                    <a class="mb-3" href="help.aspx">help</a>
                 </div>
             </div>
         </div>
-    </footer>--%>
+    </footer>
 
 
 
