@@ -26,7 +26,7 @@
                 <div class="info-container">
                     <br>
                     <asp:Label ID="Label2" runat="server" Text="Real time Art Hub" CssClass="label-2"></asp:Label>
-                    <asp:Button ID="Button4" runat="server" Text="See all" CssClass="button-2" />
+                    <!-- <asp:Button ID="Button4" runat="server" Text="See all" CssClass="button-2" /> -->
                 </div>
 
 
@@ -66,7 +66,7 @@
                 <div class="info-container">
                     <br>
                     <asp:Label ID="Label4" runat="server" Text="Real time Auctions" CssClass="label-2"></asp:Label>
-                    <asp:Button ID="Button7" runat="server" Text="See all" CssClass="button-2" />
+                    <!-- <asp:Button ID="Button7" runat="server" Text="See all" CssClass="button-2" /> -->
                     <br />
                 </div>
 
@@ -98,7 +98,7 @@
 
                 <div class="info-container">
                     <asp:Label ID="Label5" runat="server" Text="Feature Top Music " CssClass="label-2"></asp:Label>
-                    <asp:Button ID="Button9" runat="server" Text="See all" CssClass="button-2" />
+                    <!-- <asp:Button ID="Button9" runat="server" Text="See all" CssClass="button-2" /> -->
                     <br />
                     <br />
                 </div>
@@ -139,7 +139,7 @@
                 <div class="info-container">
                     <br />
                     <asp:Label ID="Label9" runat="server" Text="Top_Rated Paintings" CssClass="label-2"></asp:Label>
-                    <asp:Button ID="Button10" runat="server" Text="See all" CssClass="button-2"/>
+                    <!-- <asp:Button ID="Button10" runat="server" Text="See all" CssClass="button-2"/> -->
                 </div>
 
 
@@ -175,6 +175,7 @@
             </div>
         </div>
 
-     <%--   </div>--%>
+       
+        <script src="js/js_exihibiton.js"></script>
 
     </asp:Content>
