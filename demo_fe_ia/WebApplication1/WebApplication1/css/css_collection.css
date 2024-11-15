@@ -34,17 +34,15 @@
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
 }
 
-.large-box-1{
-    
+.large-box-1 {
     width: 200px; /* Chiều rộng của khung */
     height: 250px; /* Chiều cao của khung */
     border: 3px solid #7d1fa3; /* Màu và độ dày khung */
     border-radius: 10px; /* Bo góc */
     padding: 12px; /* Khoảng cách bên trong */
-   
-    
 }
-.button-dauCong{
+
+.button-dauCong {
     font-size: 120px;
     color: #7d1fa3;
     border: 2px solid #7d1fa3;
@@ -62,14 +60,14 @@
     cursor: pointer;
 }
 
-.label-2{
+.label-2 {
     font-weight: bold;
     color: #7d1fa3;
 }
 
 
 
-.image-grid{
+.image-grid {
     width: 230px;
     margin: 30px;
     border: 1px solid #333;
@@ -97,12 +95,12 @@
     font-size: 16px;
     font-weight: bold;
     margin-top: 15px;
-  }
+}
 
-.hidden{
+.hidden {
     display: none;
 }
 
-.gradient-border{
+.gradient-border {
     padding: 10px;
 }

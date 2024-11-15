@@ -2,184 +2,131 @@
     Inherits="WebApplication1.OrderDetails" %>
     <asp:Content ID="Content1" ContentPlaceHolderID="content" runat="server">
         <link href="css/oder-details.css" rel="stylesheet" />
-        <div id="row-tong" class="container">
-            <div class="row-wrapper">
-                <div class="row-1 col-lg-6">
-                    <div class="label-1">
-                        <asp:Label ID="Label1" runat="server" Text="Billing details" style="font-weight: bold;">
-                        </asp:Label>
-                        <br />
+          <div id="row-tong" class="container">
+        <div class="row-wrapper">
+            <div class="row-1 col-lg-7">
+                <div class="label-1 mb-4">
+                    <asp:Label ID="Label1" runat="server" Text="Billing Details" CssClass="section-title"></asp:Label>
+                </div>
+
+                <div class="row mb-3">
+                    <div class="col-md-6">
+                        <asp:Label ID="Label2" runat="server" Text="First Name *" CssClass="form-label"></asp:Label>
+                        <asp:TextBox ID="first_name" runat="server" CssClass="form-control"></asp:TextBox>
                     </div>
-
-
-                    <div class="first-last-name">
-                        <div class="form-group">
-                            <asp:Label ID="Label2" runat="server" Text="First name *" style="font-weight: bold;">
-                            </asp:Label>
-                            <!-- &nbsp;&nbsp; -->
-                            <asp:TextBox ID="first_name" runat="server" OnTextChanged="TextBox1_TextChanged">Samatha
-                                Clarken
-                            </asp:TextBox>
-                            <br />
-                        </div>
-                        <div class="form-group">
-                            <asp:Label ID="Label3" runat="server" Text="Last name *" style="font-weight: bold;">
-                            </asp:Label>
-                            <!-- &nbsp;&nbsp; -->
-                            <asp:TextBox ID="TextBox1" runat="server">Clarken</asp:TextBox>
-                            <br />
-                        </div>
-
-                    </div>
-
-                    <div class="first-last-name">
-                        <div class="form-group">
-                            <asp:Label ID="Label4" runat="server" Text="Company" style="font-weight: bold;"></asp:Label>
-                            <!-- &nbsp;&nbsp; -->
-                            <asp:TextBox ID="companyh" runat="server">Moon</asp:TextBox>
-                            <br />
-                        </div>
-                        <div class="form-group">
-                            <asp:Label ID="Label5" runat="server" Text="Country/Legion *" style="font-weight: bold;">
-                            </asp:Label>
-                            <!-- &nbsp;&nbsp; -->
-                            <asp:DropDownList ID="DropDownList1" runat="server">
-                                <asp:ListItem>United state</asp:ListItem>
-                                <asp:ListItem>Vietnam</asp:ListItem>
-                            </asp:DropDownList>
-                            <br />
-                        </div>
-
-                    </div>
-                    <!-- <div class="first-last-name"> -->
-                    <div class="form-group">
-                        <asp:Label ID="Label6" runat="server" Text="Street address*" style="font-weight: bold;">
-                        </asp:Label>
-                        <!-- &nbsp;&nbsp; -->
-                        <asp:TextBox ID="address" runat="server">Address</asp:TextBox>
-                        <br />
-                    </div>
-                    <!-- </div> -->
-
-                    <div class="first-last-name">
-                        <div class="form-group">
-                            <asp:Label ID="Label7" runat="server" Text="Town/City *" style="font-weight: bold;">
-                            </asp:Label>
-                            <!-- &nbsp;&nbsp; -->
-                            <asp:TextBox ID="city" runat="server">City</asp:TextBox>
-                            <br />
-                        </div>
-                        <div class="form-group">
-                            <asp:Label ID="Label8" runat="server" Text="State *" style="font-weight: bold;"></asp:Label>
-                            <!-- &nbsp;&nbsp; -->
-                            <asp:TextBox ID="state" runat="server">State</asp:TextBox>
-                            <br />
-                        </div>
-                    </div>
-
-                    <div class="first-last-name">
-                        <div class="form-group">
-                            <asp:Label ID="Label9" runat="server" Text="ZIP code" style="font-weight: bold;">
-                            </asp:Label>
-                            <!-- &nbsp;&nbsp; -->
-                            <asp:TextBox ID="zipcode" runat="server">Zip Code</asp:TextBox>
-                            <br />
-                        </div>
-                        <div class="form-group">
-                            <asp:Label ID="Label10" runat="server" Text="Phone *" style="font-weight: bold;">
-                            </asp:Label>
-                            <!-- &nbsp;&nbsp; -->
-                            <asp:TextBox ID="phone" runat="server">(123) 456 - 789</asp:TextBox>
-                            <br />
-                        </div>
-                    </div>
-
-                    <!-- <div class="first-last-name"> -->
-                    <div class="form-group">
-                        <asp:Label ID="Label11" runat="server" Text="Email *" style="font-weight: bold;">
-                        </asp:Label>
-                        <!-- &nbsp;&nbsp; -->
-                        <asp:TextBox ID="email" runat="server">example@youremail.com</asp:TextBox>
-                        <br />
-                    </div>
-                    <!-- </div> -->
-
-                    <!-- <div class="first-last-name"> -->
-                    <div class="form-group">
-                        <asp:Label ID="Label12" runat="server" Text="Order notes" style="font-weight: bold;">
-                        </asp:Label>
-                        <!-- &nbsp;&nbsp; -->
-                        <asp:TextBox ID="TextBox2" runat="server">Type your message here...</asp:TextBox>
-                        <br />
-                    </div>
-                    <!-- </div> -->
-                    <div class="button-group">
-                        <asp:Button ID="Button1" runat="server" Text="Return to cart" CssClass="button1" />
-                        <asp:Button ID="Button2" runat="server" Text="Continue to shipping" CssClass="button2" />
-                        <br />
+                    <div class="col-md-6">
+                        <asp:Label ID="Label3" runat="server" Text="Last Name *" CssClass="form-label"></asp:Label>
+                        <asp:TextBox ID="last_name" runat="server" CssClass="form-control"></asp:TextBox>
                     </div>
                 </div>
 
-
-                <div class="row-2 col-lg-6">
-                    <div class="label-2">
-                        <asp:Label ID="Label13" runat="server" Text="Product" style="font-weight: bold;"></asp:Label>
-                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                        <asp:Label ID="Label14" runat="server" Text="Subtotal" style="font-weight: bold;">
-                        </asp:Label>
-                        <br />
+                <div class="row mb-3">
+                    <div class="col-md-6">
+                        <asp:Label ID="Label4" runat="server" Text="Company" CssClass="form-label"></asp:Label>
+                        <asp:TextBox ID="company" runat="server" CssClass="form-control"></asp:TextBox>
                     </div>
-
-                    <div class="form-group1">
-                        <asp:Label ID="Label15" runat="server" Text="Procelain Dinner Plate(27cm)"></asp:Label>
-                        <asp:Label ID="Label16" runat="server" Text="$59.00"></asp:Label>
-                        <br />
+                    <div class="col-md-6">
+                        <asp:Label ID="Label5" runat="server" Text="Country/Region *" CssClass="form-label"></asp:Label>
+                        <asp:DropDownList ID="country" runat="server" CssClass="form-select">
+                            <asp:ListItem Text="United States" Value="US"></asp:ListItem>
+                            <asp:ListItem Text="Vietnam" Value="VN"></asp:ListItem>
+                            <asp:ListItem Text="Canada" Value="CA"></asp:ListItem>
+                        </asp:DropDownList>
                     </div>
+                </div>
 
-                    <div class="form-group1">
-                        <asp:Label ID="Label17" runat="server" Text="Ophelia Matte Natural Vase"></asp:Label>
-                        <asp:Label ID="Label18" runat="server" Text="$168.00"></asp:Label>
-                        <br />
+                <div class="mb-3">
+                    <asp:Label ID="Label6" runat="server" Text="Street Address *" CssClass="form-label"></asp:Label>
+                    <asp:TextBox ID="street_address" runat="server" CssClass="form-control"></asp:TextBox>
+                </div>
+
+                <div class="row mb-3">
+                    <div class="col-md-6">
+                        <asp:Label ID="Label7" runat="server" Text="Town/City *" CssClass="form-label"></asp:Label>
+                        <asp:TextBox ID="city" runat="server" CssClass="form-control"></asp:TextBox>
                     </div>
-
-
-                    <div class="form-group1">
-                        <asp:Label ID="Label19" runat="server" Text="Luana Bowl"></asp:Label>
-                        <asp:Label ID="Label20" runat="server" Text="$49.00" CssClass="text-2"></asp:Label>
-                        <br />
+                    <div class="col-md-6">
+                        <asp:Label ID="Label8" runat="server" Text="State *" CssClass="form-label"></asp:Label>
+                        <asp:TextBox ID="state" runat="server" CssClass="form-control"></asp:TextBox>
                     </div>
+                </div>
 
-                    <div class="form-group1">
-                        <div class="text-group">
-                            <asp:Label ID="Label21" runat="server" Text="Subtotal" style="font-weight: bold;"></asp:Label>
-                            <asp:Label ID="Label22" runat="server" Text="$330.00" CssClass="text-1"></asp:Label>
-                            <br />
-                        </div>
-
+                <div class="row mb-3">
+                    <div class="col-md-6">
+                        <asp:Label ID="Label9" runat="server" Text="ZIP Code" CssClass="form-label"></asp:Label>
+                        <asp:TextBox ID="zip_code" runat="server" CssClass="form-control"></asp:TextBox>
                     </div>
-
-                    <div class="form-group1">
-                        <div class="text-group">
-                            <asp:Label ID="Label23" runat="server" Text="Shipping" style="font-weight: bold;"></asp:Label>
-                            <asp:Label ID="Label24" runat="server" Text="$15.00" CssClass="text-1"></asp:Label>
-                            <br />
-                        </div>
-
+                    <div class="col-md-6">
+                        <asp:Label ID="Label10" runat="server" Text="Phone *" CssClass="form-label"></asp:Label>
+                        <asp:TextBox ID="phone" runat="server" CssClass="form-control"></asp:TextBox>
                     </div>
+                </div>
 
-                    <div class="form-group1">
-                        <div class="label-3">
-                            <asp:Label ID="Label25" runat="server" Text="Total" style="font-weight: bold;"></asp:Label>
-                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                            <asp:Label ID="Label26" runat="server" Text="$345.00" CssClass="text-1"></asp:Label>
-                            <br />
-                        </div>
+                <div class="mb-3">
+                    <asp:Label ID="Label11" runat="server" Text="Email *" CssClass="form-label"></asp:Label>
+                    <asp:TextBox ID="email" runat="server" CssClass="form-control"></asp:TextBox>
+                </div>
 
-                    </div>
+                <div class="mb-4">
+                    <asp:Label ID="Label12" runat="server" Text="Order Notes" CssClass="form-label"></asp:Label>
+                    <asp:TextBox ID="order_notes" runat="server" CssClass="form-control" TextMode="MultiLine"></asp:TextBox>
+                </div>
 
+                <div class="d-flex justify-content-between">
+                    <asp:Button ID="btnReturn" runat="server" Text="Return to Cart" CssClass="btn btn-secondary" />
+                    <asp:Button ID="btnContinue" runat="server" Text="Continue to Shipping" CssClass="btn btn-primary" />
                 </div>
             </div>
 
-        </div>
+            <div class="row-2 col-lg-5">
+                <div class="product-summary mb-4">
+                    <div class="d-flex justify-content-between mb-2">
+                        <asp:Label ID="Label13" runat="server" Text="Product" CssClass="section-title"></asp:Label>
+                        <asp:Label ID="Label14" runat="server" Text="Subtotal" CssClass="section-title"></asp:Label>
+                    </div>
+
+                  <%--  <asp:DataList ID="DSSP" runat="server" RepeatDirection="Vertical">
+                        <ItemTemplate>
+                           <div class="d-flex flex-column justify-content-between mb-2">
+    <div class="d-flex justify-content-between">
+        <asp:Label ID="LabelProductName" runat="server" Text='<%# Eval("TENSANPHAM") %>' CssClass="product-name"></asp:Label>
+        <asp:Label ID="LabelProductPrice" runat="server" Text='<%# Eval("GIA") %>' CssClass="product-price"></asp:Label>
+    </div>
+    
+    <div class="d-flex justify-content-between">
+       <h5><asp:Label ID="Label15" runat="server" Text="Shipping"></asp:Label></h5> 
+        <asp:Label ID="Label16" runat="server" Text='<%# Eval("GIASHIP") %>'></asp:Label>
+    </div>
+    
+    <div class="d-flex justify-content-between font-weight-bold">
+       <h3><asp:Label ID="Label17" runat="server" Text="Total: "></asp:Label></h3> 
+        <h3><asp:Label ID="Label18" runat="server" Text='<%# Eval("GIA") %>'></asp:Label></h3>
+    </div>
+</div>
+                                
+                        </ItemTemplate>
+                    </asp:DataList>--%>
+                     <asp:DataList ID="DSSP" runat="server" >
+     <ItemTemplate>
+         <asp:Label ID="Label1" runat="server" Text='<%# Eval("TENSANPHAM") %>'></asp:Label>
+         <asp:Label ID="Label2" runat="server" Text='<%# Eval("GIASANPHAM") %>'></asp:Label>
+         <asp:Label ID="Label15" runat="server" Text="SHIPPING"></asp:Label>
+         <asp:Label ID="Label3" runat="server" Text='<%# Eval("GIASHIP") %>'></asp:Label>
+         <asp:Label ID="Label16" runat="server" Text="TOTAL"></asp:Label>
+         <asp:Label ID="Label4" runat="server" Text='<%# Eval("GIASANPHAM") %>'></asp:Label>
+     </ItemTemplate>
+ </asp:DataList>
+
+                    <div class="d-flex justify-content-end">
+                    </div>
+                    <div class="d-flex justify-content-between">
+                    </div>
+                    <div class="d-flex justify-content-between font-weight-bold">
+                    </div>
+                </div>
+                <img src="images/img_payment/payment.png" class="anhpayment"/>
+                </div>
+            </div>
+        </div>  
 
     </asp:Content>
