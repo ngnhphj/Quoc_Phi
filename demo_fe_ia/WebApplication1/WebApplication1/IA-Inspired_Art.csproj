@@ -115,6 +115,9 @@
     <Content Include="Help.aspx" />
     <Content Include="Home.aspx" />
     <Content Include="images\avatar.jpg" />
+    <Content Include="images\img_admhome\bar_chart.png" />
+    <Content Include="images\img_admhome\e.jpg" />
+    <Content Include="images\img_admhome\pie_chart.jpeg" />
     <Content Include="images\img_audio\a.jpg" />
     <Content Include="images\img_audio\b.jpg" />
     <Content Include="images\img_audio\c.jpg" />
@@ -190,6 +193,7 @@
     <Content Include="Web.config" />
     <Content Include="Post.aspx" />
     <Content Include="Product.aspx" />
+    <Content Include="Adm_home.aspx" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Chatting.aspx.cs">
@@ -338,6 +342,13 @@
     </Compile>
     <Compile Include="Product.aspx.designer.cs">
       <DependentUpon>Product.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Adm_home.aspx.cs">
+      <DependentUpon>Adm_home.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Adm_home.aspx.designer.cs">
+      <DependentUpon>Adm_home.aspx</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>
