@@ -1,183 +1,199 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\",
+  "WorkspaceRootPath": "C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\webapplication1\\orderdetails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|solutionrelative:webapplication1\\orderdetails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|c:\\users\\trana\\documents\\github\\quoc_phi\\demo_fe_ia\\webapplication1\\webapplication1\\adm_home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|solutionrelative:webapplication1\\adm_home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|c:\\users\\acer\\onedrive\\documents\\github\\quoc_phi\\demo_fe_ia\\webapplication1\\webapplication1\\shoppingcart.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|solutionrelative:webapplication1\\shoppingcart.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|c:\\users\\trana\\documents\\github\\quoc_phi\\demo_fe_ia\\webapplication1\\webapplication1\\js\\js_home_adm.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|solutionrelative:webapplication1\\js\\js_home_adm.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\webapplication1\\lopketnoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\webapplication1\\adm_home.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|solutionrelative:webapplication1\\adm_home.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\webapplication1\\css\\css_home_adm.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|solutionrelative:webapplication1\\css\\css_home_adm.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\webapplication1\\lopketnoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|solutionrelative:webapplication1\\lopketnoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\webapplication1\\shoppingcart.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\webapplication1\\orderdetails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|solutionrelative:webapplication1\\orderdetails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\webapplication1\\shoppingcart.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|solutionrelative:webapplication1\\shoppingcart.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\webapplication1\\shoppingcart.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|solutionrelative:webapplication1\\shoppingcart.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\webapplication1\\css\\css_shoppingcart.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\webapplication1\\css\\css_shoppingcart.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|solutionrelative:webapplication1\\css\\css_shoppingcart.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\webapplication1\\css\\oder-details.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\webapplication1\\css\\oder-details.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|solutionrelative:webapplication1\\css\\oder-details.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\webapplication1\\collection.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\webapplication1\\collection.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|solutionrelative:webapplication1\\collection.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\webapplication1\\css\\css_collection.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\webapplication1\\css\\css_collection.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|solutionrelative:webapplication1\\css\\css_collection.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\webapplication1\\js\\js_collection.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "AbsoluteMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\webapplication1\\js\\js_collection.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|solutionrelative:webapplication1\\js\\js_collection.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\webapplication1\\collection.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\webapplication1\\collection.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|solutionrelative:webapplication1\\collection.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\webapplication1\\js\\js_exihibiton.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "AbsoluteMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\webapplication1\\js\\js_exihibiton.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|solutionrelative:webapplication1\\js\\js_exihibiton.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\webapplication1\\exhibitioncorner.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\webapplication1\\exhibitioncorner.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|solutionrelative:webapplication1\\exhibitioncorner.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\webapplication1\\css\\exhibiton.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\webapplication1\\css\\exhibiton.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|solutionrelative:webapplication1\\css\\exhibiton.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\webapplication1\\photodetails.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\webapplication1\\photodetails.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|solutionrelative:webapplication1\\photodetails.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\webapplication1\\photodetails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\webapplication1\\photodetails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|solutionrelative:webapplication1\\photodetails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\webapplication1\\css\\css_photodetail.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\webapplication1\\css\\css_photodetail.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|solutionrelative:webapplication1\\css\\css_photodetail.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\webapplication1\\setting.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\webapplication1\\setting.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|solutionrelative:webapplication1\\setting.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\webapplication1\\css\\css_setting.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\webapplication1\\css\\css_setting.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|solutionrelative:webapplication1\\css\\css_setting.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\webapplication1\\setting.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\webapplication1\\setting.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|solutionrelative:webapplication1\\setting.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\webapplication1\\exhibitioncorner.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\webapplication1\\exhibitioncorner.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|solutionrelative:webapplication1\\exhibitioncorner.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\webapplication1\\menu.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "AbsoluteMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\webapplication1\\menu.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
       "RelativeMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|solutionrelative:webapplication1\\menu.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\webapplication1\\photos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\webapplication1\\photos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|solutionrelative:webapplication1\\photos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\webapplication1\\notification.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\webapplication1\\notification.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|solutionrelative:webapplication1\\notification.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\webapplication1\\product.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\webapplication1\\product.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|solutionrelative:webapplication1\\product.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Post.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Post.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|solutionrelative:WebApplication1\\Post.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\webapplication1\\chatting.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\webapplication1\\chatting.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|solutionrelative:webapplication1\\chatting.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\webapplication1\\orderdetails.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\webapplication1\\orderdetails.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|solutionrelative:webapplication1\\orderdetails.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\webapplication1\\upload.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\webapplication1\\upload.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|solutionrelative:webapplication1\\upload.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\webapplication1\\css\\product-business.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\webapplication1\\css\\product-business.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|solutionrelative:webapplication1\\css\\product-business.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\webapplication1\\css\\upload-business.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\webapplication1\\css\\upload-business.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|solutionrelative:webapplication1\\css\\upload-business.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Profile.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Profile.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|solutionrelative:WebApplication1\\Profile.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\webapplication1\\product.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\webapplication1\\product.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|solutionrelative:webapplication1\\product.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_ACER_ONEDRIVE_DOCUMENTS_GITHUB_QUOC_PHI_DEMO_FE_IA_WEBAPPLICATION1_WEBAPPLICATION1_APP_DATA_DATABASE1.MDF/True/SqlTable/dbo.PRODUCT.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\webapplication1\\css\\css_notification.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\webapplication1\\css\\css_notification.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|solutionrelative:webapplication1\\css\\css_notification.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\webapplication1\\photos.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\webapplication1\\photos.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|solutionrelative:webapplication1\\photos.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|solutionrelative:WebApplication1\\Home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_TRANA_DOCUMENTS_D\u1EF0_\u00C1N_QUOC_PHI_DEMO_FE_IA_WEBAPPLICATION1_WEBAPPLICATION1_APP_DATA_DATABASE1.MDF/True/SqlTable/dbo.IMGCOLLECTION.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\css\\css_photos.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\css\\css_photos.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|solutionrelative:WebApplication1\\css\\css_photos.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Post.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Post.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|solutionrelative:WebApplication1\\Post.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|solutionrelative:WebApplication1\\Web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Post.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Post.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|solutionrelative:WebApplication1\\Post.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|solutionrelative:WebApplication1\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Melody.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Melody.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|solutionrelative:WebApplication1\\Melody.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Profile.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Profile.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|solutionrelative:WebApplication1\\Profile.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\css\\css_profile.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\css\\css_profile.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|solutionrelative:WebApplication1\\css\\css_profile.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
@@ -188,7 +204,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 34,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -200,11 +216,61 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "js_home_adm.js",
+              "DocumentMoniker": "C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\js\\js_home_adm.js",
+              "RelativeDocumentMoniker": "WebApplication1\\js\\js_home_adm.js",
+              "ToolTip": "C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\js\\js_home_adm.js",
+              "RelativeToolTip": "WebApplication1\\js\\js_home_adm.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-20T20:40:37.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Adm_home.aspx",
+              "DocumentMoniker": "C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Adm_home.aspx",
+              "RelativeDocumentMoniker": "WebApplication1\\Adm_home.aspx",
+              "ToolTip": "C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Adm_home.aspx",
+              "RelativeToolTip": "WebApplication1\\Adm_home.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-17T19:26:34.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Adm_home.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Adm_home.aspx.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Adm_home.aspx.cs",
+              "ToolTip": "C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Adm_home.aspx.cs",
+              "RelativeToolTip": "WebApplication1\\Adm_home.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T15:41:16.697Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "css_home_adm.css",
+              "DocumentMoniker": "C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\css\\css_home_adm.css",
+              "RelativeDocumentMoniker": "WebApplication1\\css\\css_home_adm.css",
+              "ToolTip": "C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\css\\css_home_adm.css",
+              "RelativeToolTip": "WebApplication1\\css\\css_home_adm.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-17T19:44:21.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "ShoppingCart.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\ShoppingCart.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\ShoppingCart.aspx.cs",
               "RelativeDocumentMoniker": "WebApplication1\\ShoppingCart.aspx.cs",
-              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\ShoppingCart.aspx.cs",
+              "ToolTip": "C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\ShoppingCart.aspx.cs",
               "RelativeToolTip": "WebApplication1\\ShoppingCart.aspx.cs",
               "ViewState": "AgIAAGwAAAAAAAAAAAAowJcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -212,11 +278,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "css_shoppingcart.css",
-              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\css\\css_shoppingcart.css",
+              "DocumentMoniker": "C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\css\\css_shoppingcart.css",
               "RelativeDocumentMoniker": "WebApplication1\\css\\css_shoppingcart.css",
-              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\css\\css_shoppingcart.css",
+              "ToolTip": "C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\css\\css_shoppingcart.css",
               "RelativeToolTip": "WebApplication1\\css\\css_shoppingcart.css",
               "ViewState": "AgIAACQAAAAAAAAAAAAAAFAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
@@ -224,49 +290,47 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "OrderDetails.aspx",
-              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\OrderDetails.aspx",
+              "DocumentMoniker": "C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\OrderDetails.aspx",
               "RelativeDocumentMoniker": "WebApplication1\\OrderDetails.aspx",
-              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\OrderDetails.aspx",
+              "ToolTip": "C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\OrderDetails.aspx",
               "RelativeToolTip": "WebApplication1\\OrderDetails.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-11-05T13:52:48.306Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-05T13:52:48.306Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ShoppingCart.aspx",
-              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\ShoppingCart.aspx",
-              "RelativeDocumentMoniker": "WebApplication1\\ShoppingCart.aspx",
-              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\ShoppingCart.aspx",
-              "RelativeToolTip": "WebApplication1\\ShoppingCart.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-11-05T13:53:00.338Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "LopKetNoi.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\LopKetNoi.cs",
+              "DocumentMoniker": "C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\LopKetNoi.cs",
               "RelativeDocumentMoniker": "WebApplication1\\LopKetNoi.cs",
-              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\LopKetNoi.cs",
+              "ToolTip": "C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\LopKetNoi.cs",
               "RelativeToolTip": "WebApplication1\\LopKetNoi.cs",
-              "ViewState": "AgIAAGUAAAAAAAAAAAAowJAAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAuwA8AAADVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-04T13:51:44.953Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "ShoppingCart.aspx",
+              "DocumentMoniker": "C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\ShoppingCart.aspx",
+              "RelativeDocumentMoniker": "WebApplication1\\ShoppingCart.aspx",
+              "ToolTip": "C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\ShoppingCart.aspx",
+              "RelativeToolTip": "WebApplication1\\ShoppingCart.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-05T13:53:00.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "Collection.aspx",
-              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Collection.aspx",
+              "DocumentMoniker": "C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Collection.aspx",
               "RelativeDocumentMoniker": "WebApplication1\\Collection.aspx",
-              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Collection.aspx",
+              "ToolTip": "C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Collection.aspx",
               "RelativeToolTip": "WebApplication1\\Collection.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
@@ -274,11 +338,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "css_collection.css",
-              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\css\\css_collection.css",
+              "DocumentMoniker": "C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\css\\css_collection.css",
               "RelativeDocumentMoniker": "WebApplication1\\css\\css_collection.css",
-              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\css\\css_collection.css",
+              "ToolTip": "C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\css\\css_collection.css",
               "RelativeToolTip": "WebApplication1\\css\\css_collection.css",
               "ViewState": "AgIAAD4AAAAAAAAAAAAAAGoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
@@ -286,11 +350,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "oder-details.css",
-              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\css\\oder-details.css",
+              "DocumentMoniker": "C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\css\\oder-details.css",
               "RelativeDocumentMoniker": "WebApplication1\\css\\oder-details.css",
-              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\css\\oder-details.css",
+              "ToolTip": "C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\css\\oder-details.css",
               "RelativeToolTip": "WebApplication1\\css\\oder-details.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
@@ -298,11 +362,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "js_collection.js",
-              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\js\\js_collection.js",
+              "DocumentMoniker": "C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\js\\js_collection.js",
               "RelativeDocumentMoniker": "WebApplication1\\js\\js_collection.js",
-              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\js\\js_collection.js",
+              "ToolTip": "C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\js\\js_collection.js",
               "RelativeToolTip": "WebApplication1\\js\\js_collection.js",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
@@ -310,11 +374,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "js_exihibiton.js",
-              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\js\\js_exihibiton.js",
+              "DocumentMoniker": "C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\js\\js_exihibiton.js",
               "RelativeDocumentMoniker": "WebApplication1\\js\\js_exihibiton.js",
-              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\js\\js_exihibiton.js",
+              "ToolTip": "C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\js\\js_exihibiton.js",
               "RelativeToolTip": "WebApplication1\\js\\js_exihibiton.js",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
@@ -322,11 +386,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 16,
               "Title": "exhibiton.css",
-              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\css\\exhibiton.css",
+              "DocumentMoniker": "C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\css\\exhibiton.css",
               "RelativeDocumentMoniker": "WebApplication1\\css\\exhibiton.css",
-              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\css\\exhibiton.css",
+              "ToolTip": "C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\css\\exhibiton.css",
               "RelativeToolTip": "WebApplication1\\css\\exhibiton.css",
               "ViewState": "AgIAAFkBAAAAAAAAAAAAAIUBAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
@@ -334,11 +398,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "Collection.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Collection.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Collection.aspx.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Collection.aspx.cs",
-              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Collection.aspx.cs",
+              "ToolTip": "C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Collection.aspx.cs",
               "RelativeToolTip": "WebApplication1\\Collection.aspx.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -346,11 +410,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "ExhibitionCorner.aspx",
-              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\ExhibitionCorner.aspx",
+              "DocumentMoniker": "C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\ExhibitionCorner.aspx",
               "RelativeDocumentMoniker": "WebApplication1\\ExhibitionCorner.aspx",
-              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\ExhibitionCorner.aspx",
+              "ToolTip": "C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\ExhibitionCorner.aspx",
               "RelativeToolTip": "WebApplication1\\ExhibitionCorner.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
@@ -358,11 +422,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 18,
               "Title": "PhotoDetails.aspx",
-              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\PhotoDetails.aspx",
+              "DocumentMoniker": "C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\PhotoDetails.aspx",
               "RelativeDocumentMoniker": "WebApplication1\\PhotoDetails.aspx",
-              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\PhotoDetails.aspx",
+              "ToolTip": "C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\PhotoDetails.aspx",
               "RelativeToolTip": "WebApplication1\\PhotoDetails.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
@@ -370,11 +434,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 20,
               "Title": "Setting.aspx",
-              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Setting.aspx",
+              "DocumentMoniker": "C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Setting.aspx",
               "RelativeDocumentMoniker": "WebApplication1\\Setting.aspx",
-              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Setting.aspx",
+              "ToolTip": "C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Setting.aspx",
               "RelativeToolTip": "WebApplication1\\Setting.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
@@ -382,11 +446,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 22,
               "Title": "Setting.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Setting.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Setting.aspx.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Setting.aspx.cs",
-              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Setting.aspx.cs",
+              "ToolTip": "C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Setting.aspx.cs",
               "RelativeToolTip": "WebApplication1\\Setting.aspx.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -394,11 +458,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 21,
               "Title": "css_setting.css",
-              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\css\\css_setting.css",
+              "DocumentMoniker": "C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\css\\css_setting.css",
               "RelativeDocumentMoniker": "WebApplication1\\css\\css_setting.css",
-              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\css\\css_setting.css",
+              "ToolTip": "C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\css\\css_setting.css",
               "RelativeToolTip": "WebApplication1\\css\\css_setting.css",
               "ViewState": "AgIAAFkAAAAAAAAAAAAswIEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
@@ -406,11 +470,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 17,
               "Title": "PhotoDetails.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\PhotoDetails.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\PhotoDetails.aspx.cs",
               "RelativeDocumentMoniker": "WebApplication1\\PhotoDetails.aspx.cs",
-              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\PhotoDetails.aspx.cs",
+              "ToolTip": "C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\PhotoDetails.aspx.cs",
               "RelativeToolTip": "WebApplication1\\PhotoDetails.aspx.cs",
               "ViewState": "AgIAAFwAAAAAAAAAAAAYwH8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -418,11 +482,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 19,
               "Title": "css_photodetail.css",
-              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\css\\css_photodetail.css",
+              "DocumentMoniker": "C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\css\\css_photodetail.css",
               "RelativeDocumentMoniker": "WebApplication1\\css\\css_photodetail.css",
-              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\css\\css_photodetail.css",
+              "ToolTip": "C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\css\\css_photodetail.css",
               "RelativeToolTip": "WebApplication1\\css\\css_photodetail.css",
               "ViewState": "AgIAAMwAAAAAAAAAAAAswPQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
@@ -430,35 +494,35 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 24,
               "Title": "Menu.Master",
-              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Menu.Master",
+              "DocumentMoniker": "C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Menu.Master",
               "RelativeDocumentMoniker": "WebApplication1\\Menu.Master",
-              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Menu.Master",
+              "ToolTip": "C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Menu.Master",
               "RelativeToolTip": "WebApplication1\\Menu.Master",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-11-04T13:51:44.952Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-04T13:51:44.952Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 25,
               "Title": "Photos.aspx",
-              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Photos.aspx",
+              "DocumentMoniker": "C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Photos.aspx",
               "RelativeDocumentMoniker": "WebApplication1\\Photos.aspx",
-              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Photos.aspx",
+              "ToolTip": "C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Photos.aspx",
               "RelativeToolTip": "WebApplication1\\Photos.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
               "WhenOpened": "2024-11-04T13:51:44.95Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 23,
               "Title": "ExhibitionCorner.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\ExhibitionCorner.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\ExhibitionCorner.aspx.cs",
               "RelativeDocumentMoniker": "WebApplication1\\ExhibitionCorner.aspx.cs",
-              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\ExhibitionCorner.aspx.cs",
+              "ToolTip": "C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\ExhibitionCorner.aspx.cs",
               "RelativeToolTip": "WebApplication1\\ExhibitionCorner.aspx.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -466,55 +530,59 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 26,
               "Title": "Notification.aspx",
-              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Notification.aspx",
+              "DocumentMoniker": "C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Notification.aspx",
               "RelativeDocumentMoniker": "WebApplication1\\Notification.aspx",
-              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Notification.aspx",
+              "ToolTip": "C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Notification.aspx",
               "RelativeToolTip": "WebApplication1\\Notification.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
               "WhenOpened": "2024-11-04T13:51:44.95Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 28,
               "Title": "Post.aspx",
-              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Post.aspx",
+              "DocumentMoniker": "C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Post.aspx",
               "RelativeDocumentMoniker": "WebApplication1\\Post.aspx",
-              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Post.aspx",
+              "ToolTip": "C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Post.aspx",
               "RelativeToolTip": "WebApplication1\\Post.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
               "WhenOpened": "2024-11-04T13:51:44.956Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 27,
               "Title": "Product.aspx",
-              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Product.aspx",
+              "DocumentMoniker": "C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Product.aspx",
               "RelativeDocumentMoniker": "WebApplication1\\Product.aspx",
-              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Product.aspx",
+              "ToolTip": "C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Product.aspx",
               "RelativeToolTip": "WebApplication1\\Product.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
               "WhenOpened": "2024-11-04T13:51:44.918Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 29,
               "Title": "Chatting.aspx",
-              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Chatting.aspx",
+              "DocumentMoniker": "C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Chatting.aspx",
               "RelativeDocumentMoniker": "WebApplication1\\Chatting.aspx",
-              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Chatting.aspx",
+              "ToolTip": "C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Chatting.aspx",
               "RelativeToolTip": "WebApplication1\\Chatting.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
               "WhenOpened": "2024-11-12T15:21:41.436Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 32,
               "Title": "product-business.css",
-              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\css\\product-business.css",
+              "DocumentMoniker": "C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\css\\product-business.css",
               "RelativeDocumentMoniker": "WebApplication1\\css\\product-business.css",
-              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\css\\product-business.css",
+              "ToolTip": "C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\css\\product-business.css",
               "RelativeToolTip": "WebApplication1\\css\\product-business.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
@@ -522,11 +590,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 30,
               "Title": "OrderDetails.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\OrderDetails.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\OrderDetails.aspx.cs",
               "RelativeDocumentMoniker": "WebApplication1\\OrderDetails.aspx.cs",
-              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\OrderDetails.aspx.cs",
+              "ToolTip": "C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\OrderDetails.aspx.cs",
               "RelativeToolTip": "WebApplication1\\OrderDetails.aspx.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAgwBIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -534,22 +602,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 31,
               "Title": "Upload.aspx",
-              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Upload.aspx",
+              "DocumentMoniker": "C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Upload.aspx",
               "RelativeDocumentMoniker": "WebApplication1\\Upload.aspx",
-              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Upload.aspx",
+              "ToolTip": "C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Upload.aspx",
               "RelativeToolTip": "WebApplication1\\Upload.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
               "WhenOpened": "2024-11-05T13:51:09.186Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 33,
               "Title": "upload-business.css",
-              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\css\\upload-business.css",
+              "DocumentMoniker": "C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\css\\upload-business.css",
               "RelativeDocumentMoniker": "WebApplication1\\css\\upload-business.css",
-              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\css\\upload-business.css",
+              "ToolTip": "C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\css\\upload-business.css",
               "RelativeToolTip": "WebApplication1\\css\\upload-business.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
@@ -557,22 +626,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 34,
               "Title": "Profile.aspx",
-              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Profile.aspx",
+              "DocumentMoniker": "C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Profile.aspx",
               "RelativeDocumentMoniker": "WebApplication1\\Profile.aspx",
-              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Profile.aspx",
+              "ToolTip": "C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Profile.aspx",
               "RelativeToolTip": "WebApplication1\\Profile.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
               "WhenOpened": "2024-11-04T13:51:44.958Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 37,
               "Title": "css_notification.css",
-              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\css\\css_notification.css",
+              "DocumentMoniker": "C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\css\\css_notification.css",
               "RelativeDocumentMoniker": "WebApplication1\\css\\css_notification.css",
-              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\css\\css_notification.css",
+              "ToolTip": "C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\css\\css_notification.css",
               "RelativeToolTip": "WebApplication1\\css\\css_notification.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
@@ -580,11 +650,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 35,
               "Title": "Product.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Product.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Product.aspx.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Product.aspx.cs",
-              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Product.aspx.cs",
+              "ToolTip": "C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Product.aspx.cs",
               "RelativeToolTip": "WebApplication1\\Product.aspx.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAgwBEAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -592,7 +662,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 36,
               "Title": "dbo.PRODUCT.sql",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_ACER_ONEDRIVE_DOCUMENTS_GITHUB_QUOC_PHI_DEMO_FE_IA_WEBAPPLICATION1_WEBAPPLICATION1_APP_DATA_DATABASE1.MDF/True/SqlTable/dbo.PRODUCT.sql",
               "ToolTip": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_ACER_ONEDRIVE_DOCUMENTS_GITHUB_QUOC_PHI_DEMO_FE_IA_WEBAPPLICATION1_WEBAPPLICATION1_APP_DATA_DATABASE1.MDF/True/SqlTable/dbo.PRODUCT.sql",
@@ -601,11 +671,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 42,
               "Title": "Post.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Post.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Post.aspx.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Post.aspx.cs",
-              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Post.aspx.cs",
+              "ToolTip": "C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Post.aspx.cs",
               "RelativeToolTip": "WebApplication1\\Post.aspx.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
@@ -613,11 +683,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 39,
               "Title": "Home.aspx",
-              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Home.aspx",
+              "DocumentMoniker": "C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Home.aspx",
               "RelativeDocumentMoniker": "WebApplication1\\Home.aspx",
-              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Home.aspx",
+              "ToolTip": "C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Home.aspx",
               "RelativeToolTip": "WebApplication1\\Home.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000192|",
@@ -625,11 +695,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 38,
               "Title": "Photos.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Photos.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Photos.aspx.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Photos.aspx.cs",
-              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Photos.aspx.cs",
+              "ToolTip": "C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Photos.aspx.cs",
               "RelativeToolTip": "WebApplication1\\Photos.aspx.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
@@ -637,7 +707,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 40,
               "Title": "dbo.IMGCOLLECTION.sql",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_TRANA_DOCUMENTS_D\u1EF0_\u00C1N_QUOC_PHI_DEMO_FE_IA_WEBAPPLICATION1_WEBAPPLICATION1_APP_DATA_DATABASE1.MDF/True/SqlTable/dbo.IMGCOLLECTION.sql",
               "ToolTip": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_TRANA_DOCUMENTS_D\u1EF0_\u00C1N_QUOC_PHI_DEMO_FE_IA_WEBAPPLICATION1_WEBAPPLICATION1_APP_DATA_DATABASE1.MDF/True/SqlTable/dbo.IMGCOLLECTION.sql",
@@ -646,11 +716,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 41,
               "Title": "css_photos.css",
-              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\css\\css_photos.css",
+              "DocumentMoniker": "C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\css\\css_photos.css",
               "RelativeDocumentMoniker": "WebApplication1\\css\\css_photos.css",
-              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\css\\css_photos.css",
+              "ToolTip": "C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\css\\css_photos.css",
               "RelativeToolTip": "WebApplication1\\css\\css_photos.css",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAACoAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
@@ -658,11 +728,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 43,
               "Title": "Web.config",
-              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Web.config",
+              "DocumentMoniker": "C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Web.config",
               "RelativeDocumentMoniker": "WebApplication1\\Web.config",
-              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Web.config",
+              "ToolTip": "C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Web.config",
               "RelativeToolTip": "WebApplication1\\Web.config",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
@@ -671,11 +741,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 44,
               "Title": "Post.aspx.designer.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Post.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Post.aspx.designer.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Post.aspx.designer.cs",
-              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Post.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Post.aspx.designer.cs",
               "RelativeToolTip": "WebApplication1\\Post.aspx.designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -683,11 +753,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 45,
               "Title": "packages.config",
-              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\packages.config",
+              "DocumentMoniker": "C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\packages.config",
               "RelativeDocumentMoniker": "WebApplication1\\packages.config",
-              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\packages.config",
+              "ToolTip": "C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\packages.config",
               "RelativeToolTip": "WebApplication1\\packages.config",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
@@ -695,11 +765,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 46,
               "Title": "Melody.aspx",
-              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Melody.aspx",
+              "DocumentMoniker": "C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Melody.aspx",
               "RelativeDocumentMoniker": "WebApplication1\\Melody.aspx",
-              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Melody.aspx",
+              "ToolTip": "C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Melody.aspx",
               "RelativeToolTip": "WebApplication1\\Melody.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
@@ -707,11 +777,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 47,
               "Title": "Profile.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Profile.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Profile.aspx.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Profile.aspx.cs",
-              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Profile.aspx.cs",
+              "ToolTip": "C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Profile.aspx.cs",
               "RelativeToolTip": "WebApplication1\\Profile.aspx.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -719,11 +789,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 48,
               "Title": "css_profile.css",
-              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\css\\css_profile.css",
+              "DocumentMoniker": "C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\css\\css_profile.css",
               "RelativeDocumentMoniker": "WebApplication1\\css\\css_profile.css",
-              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\css\\css_profile.css",
+              "ToolTip": "C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\css\\css_profile.css",
               "RelativeToolTip": "WebApplication1\\css\\css_profile.css",
               "ViewState": "AgIAALQAAAAAAAAAAAAAAMMAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",

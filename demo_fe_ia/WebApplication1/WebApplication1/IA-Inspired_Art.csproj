@@ -98,6 +98,7 @@
     <Content Include="Content\bootstrap.rtl.min.css" />
     <Content Include="css\css_collection.css" />
     <Content Include="css\css_home.css" />
+    <Content Include="css\css_home_adm.css" />
     <Content Include="css\css_login.css" />
     <Content Include="css\css_menu.css" />
     <Content Include="css\css_notification.css" />
@@ -153,6 +154,7 @@
     <Content Include="img_toppainting\LOVEBYTHELAKE.jpeg" />
     <Content Include="js\js_collection.js" />
     <Content Include="js\js_exihibiton.js" />
+    <Content Include="js\js_home_adm.js" />
     <Content Include="js\js_login.js" />
     <Content Include="js\js_profile.js" />
     <Content Include="Login.aspx" />
