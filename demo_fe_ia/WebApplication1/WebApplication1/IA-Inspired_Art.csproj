@@ -127,6 +127,9 @@
     <Content Include="images\img_audio\f.jpg" />
     <Content Include="images\img_cart\10.jpg" />
     <Content Include="images\img_cart\11.jpg" />
+    <Content Include="images\img_flag\England.jpeg" />
+    <Content Include="images\img_flag\Japan.jpeg" />
+    <Content Include="images\img_flag\Vietnam.jpeg" />
     <Content Include="images\img_home\1.jpg" />
     <Content Include="images\img_home\2.jpg" />
     <Content Include="images\img_home\3.jpg" />
@@ -176,6 +179,7 @@
     <Content Include="product_img\night.jpg" />
     <Content Include="product_img\phohangvai.jpg" />
     <Content Include="Profile.aspx" />
+    <Content Include="Adm_ReportManagement.aspx" />
     <Content Include="Scripts\bootstrap.bundle.js" />
     <Content Include="Scripts\bootstrap.bundle.min.js" />
     <Content Include="Scripts\bootstrap.esm.js" />
@@ -302,6 +306,13 @@
     </Compile>
     <Compile Include="Menu.Master.designer.cs">
       <DependentUpon>Menu.Master</DependentUpon>
+    </Compile>
+    <Compile Include="Adm_ReportManagement.aspx.cs">
+      <DependentUpon>Adm_ReportManagement.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Adm_ReportManagement.aspx.designer.cs">
+      <DependentUpon>Adm_ReportManagement.aspx</DependentUpon>
     </Compile>
     <Compile Include="Search.aspx.cs">
       <DependentUpon>Search.aspx</DependentUpon>
