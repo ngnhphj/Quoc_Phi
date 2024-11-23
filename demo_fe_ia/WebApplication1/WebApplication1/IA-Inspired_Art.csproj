@@ -74,6 +74,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Adm_Setting.aspx" />
     <Content Include="App_Data\Database1.mdf" />
     <Content Include="App_Data\Database1_log.ldf">
       <DependentUpon>Database1.mdf</DependentUpon>
@@ -128,6 +129,7 @@
     <Content Include="images\img_audio\f.jpg" />
     <Content Include="images\img_cart\10.jpg" />
     <Content Include="images\img_cart\11.jpg" />
+    <Content Include="images\img_flag\a.png" />
     <Content Include="images\img_flag\England.jpeg" />
     <Content Include="images\img_flag\Japan.jpeg" />
     <Content Include="images\img_flag\Vietnam.jpeg" />
@@ -204,6 +206,13 @@
     <Content Include="Adm_home.aspx" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Adm_Setting.aspx.cs">
+      <DependentUpon>Adm_Setting.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Adm_Setting.aspx.designer.cs">
+      <DependentUpon>Adm_Setting.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Chatting.aspx.cs">
       <DependentUpon>Chatting.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
