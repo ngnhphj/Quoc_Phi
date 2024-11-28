@@ -78,7 +78,7 @@
 
                                 <div class="button-show">
                                     <asp:Button ID="Button1" runat="server" CommandArgument='<%# Eval("IDKHACHHANG") %>'
-                                        Text="Show more" />
+                                        Text="Show more" OnClick="Button1_Click1" />
                                 </div>
 
                         </ItemTemplate>

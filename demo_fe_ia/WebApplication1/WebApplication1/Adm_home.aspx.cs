@@ -21,13 +21,18 @@ namespace WebApplication1
 
         protected void Button1_Click(object sender, EventArgs e)
         {
-           if (sender is Button btn)
+           
+        }
+
+        protected void Button1_Click1(object sender, EventArgs e)
+        {
+            if (sender is Button btn)
             {
                 string btn12 = btn.CommandArgument;
-                string spl2 = "Select * from KHACHHANG where IDKHACHHANG=" + btn12;
-                DETAIL.DataSource = kn.LayDuLieu(spl2);
-                DETAIL.DataBind();
-            }    
+                string sql2 = "Select * from KHACHHANG where IDKHACHHANG=" + btn12;
+                DETAIL.DataSource = kn.LayDuLieu(sql2);
+               DETAIL.DataBind();
+            }
         }
     }
 }
