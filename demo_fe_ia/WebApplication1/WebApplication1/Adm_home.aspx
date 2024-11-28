@@ -1,7 +1,7 @@
 ﻿<%@ Page Title="" Language="C#" MasterPageFile="~/MenuAdmin.Master" AutoEventWireup="true" CodeBehind="Adm_Home.aspx.cs"
     Inherits="WebApplication1.Adm_Home" %>
     <asp:Content ID="Content1" ContentPlaceHolderID="search" runat="server">
-    
+
     </asp:Content>
     <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
         <link href="css/adm_home.css" rel="stylesheet" />
@@ -78,30 +78,54 @@
 
                                 <div class="button-show">
                                     <asp:Button ID="Button1" runat="server" CommandArgument='<%# Eval("IDKHACHHANG") %>'
-                                        Text="Show more" OnClick="Button1_Click1" />
+                                        Text="Show more" OnClick="Button1_Click1"
+                                        OnClientClick="showPopup(); return false;" />
                                 </div>
-
+                            </div>
                         </ItemTemplate>
                     </asp:DataList>
                 </div>
+
+                <asp:DataList ID="DETAIL" runat="server" Width="500px">
+                    <ItemTemplate>
+                        <div id="popup" class="popup">
+                            <div class="detail-container">
+                                <span id="closePopup" class="close"> &times;</span>
+                                <div class="info-container" style="display: flex;">
+                                    <p>ảnh sản phẩm</p>
+                                    <p>avatar</p>
+                                    <p>tên</p>
+                                    <p>địa chỉ</p>
+                                    <p>giới tính</p>
+                                    <p>id</p>
+                                </div><br>
+
+                                <div class="noi-dung">
+                                    <asp:ImageButton ID="ImageButton1" runat="server"
+                                        CommandArgument='<%# Eval("IDKHACHHANG") %>'
+                                        ImageUrl='<%# "images/img_realtimearthub/"+Eval("AVTBIA") %>' HEIGHT="100PX"
+                                        Width="70PX" />
+                                    <asp:ImageButton ID="ImageButton2" runat="server"
+                                        CommandArgument='<%# Eval("IDKHACHHANG") %>'
+                                        ImageUrl='<%# "images/img_realtimearthub/"+Eval("AVTDAIDIEN") %>' HEIGHT="100PX"
+                                        Width="70PX" />
+                                    <asp:Label ID="Label15" runat="server" Text='<%# Eval("TENDANGNHAP") %>'>
+                                    </asp:Label>
+                                    <br />
+                                    <asp:Label ID="Label16" runat="server" Text='<%# Eval("DIACHI") %>'></asp:Label>
+                                    <asp:Label ID="Label17" runat="server" Text='<%# Eval("GIOITINH") %>'></asp:Label>
+                                    <asp:Label ID="Label18" runat="server" Text='<%# Eval("TUOI") %>'></asp:Label>
+                                    <br />
+                                </div>
+                            </div>
+                        </div>
+
+                    </ItemTemplate>
+                </asp:DataList>
             </div><br>
 
 
-            <asp:DataList ID="DETAIL" runat="server">
-                <ItemTemplate>
-                        <asp:ImageButton ID="ImageButton1" runat="server" CommandArgument='<%# Eval("IDKHACHHANG") %>'
-                            ImageUrl='<%# "images/img_realtimearthub/"+Eval("AVTBIA") %>' HEIGHT="100PX" Width="70PX" />
-                        <asp:ImageButton ID="ImageButton2" runat="server" CommandArgument='<%# Eval("IDKHACHHANG") %>'
-                            ImageUrl='<%# "images/img_realtimearthub/"+Eval("AVTDAIDIEN") %>' HEIGHT="100PX"
-                            Width="70PX" />
-                        <asp:Label ID="Label15" runat="server" Text='<%# Eval("TENDANGNHAP") %>'></asp:Label>
-                        <br />
-                        <asp:Label ID="Label16" runat="server" Text='<%# Eval("DIACHI") %>'></asp:Label>
-                        <asp:Label ID="Label17" runat="server" Text='<%# Eval("GIOITINH") %>'></asp:Label>
-                        <asp:Label ID="Label18" runat="server" Text='<%# Eval("TUOI") %>'></asp:Label>
-                        <br />
-                </ItemTemplate>
-            </asp:DataList>
+
         </div>
 
         <script src="js/js_adm_home.js"></script>
