@@ -16,16 +16,18 @@ namespace WebApplication1
             string sql1 = "Select * from KHACHHANG";
             DSUSER.DataSource = kn.LayDuLieu(sql1);
             DSUSER.DataBind();
-            //string btn12 = Request.QueryString["bt"] + "";
-            //string sql2 = "Select * from KHACHHANG where IDKHACHHANG=" + btn12;
-            string sql2 = "Select * from KHACHHANG";
-            DETAIL.DataSource=kn.LayDuLieu(sql2);
-            DETAIL.DataBind();
+            
         }
 
         protected void Button1_Click(object sender, EventArgs e)
         {
-            string btn = ((Button)sender).CommandArgument;
+           if (sender is Button btn)
+            {
+                string btn12 = btn.CommandArgument;
+                string spl2 = "Select * from KHACHHANG where IDKHACHHANG=" + btn12;
+                DETAIL.DataSource = kn.LayDuLieu(spl2);
+                DETAIL.DataBind();
+            }    
         }
     }
 }

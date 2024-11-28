@@ -1,0 +1,134 @@
+﻿.row-tong {
+    width: 100%;
+    height: auto;
+}
+
+.tieu-de {
+    font-weight: bold;
+    font-size: 20px;
+    color: yellow;
+    margin-left: 40%;
+}
+
+.number-of-oders {
+    position: relative;
+    width: 170px;
+    height: auto;
+    border: 1px solid #edfd07;
+    border-radius: 10px;
+    margin-left: 5%;
+}
+
+.text-1 {
+    font-size: 18px;
+    font-weight: bold;
+    color: yellow;
+    padding-left: 7px;
+}
+
+.number-of-oders img {
+    padding-top: 10px;
+    margin-left: 20px;
+}
+
+
+.number-of-user{
+    position: relative;
+    width: 170px;
+    height: auto;
+    border: 1px solid #edfd07;
+    border-radius: 10px;
+    margin-left: 10%;
+}
+
+.text-2 {
+    font-size: 18px;
+    font-weight: bold;
+    color: yellow;
+    padding-left: 7px;
+}
+
+.number-of-user img {
+    padding-top: 10px;
+    margin-left: 20px;
+}
+
+.top-feature{
+    position: relative;
+    width: 410px;
+    height: auto;
+    border: 1px solid #edfd07;
+    border-radius: 10px;
+    margin-left: 10%;
+    /* background: white; */
+
+}
+
+.text-3 {
+    font-size: 18px;
+    font-weight: bold;
+    color: yellow;
+    margin-left: 30%;
+}
+
+.top-feature img {
+    padding-top: 5px;
+    margin-left: 30px;
+}
+
+.container{
+    width: 713px;
+    border-bottom: 1px solid #000;
+    padding: 10px;
+    font-weight: bold;
+}
+
+.id{
+    padding-left: 9px;
+}
+.username{
+    padding-left: 30px;
+}
+.email{
+    padding-left: 100px;
+}
+.gender{
+    padding-left: 100px;
+}
+.role{
+    padding-left: 70px;
+}
+
+.tabel-info{
+    height: 50px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
+.id-khachHang{
+    padding: 20px;
+}
+.ten-dangNhap{
+    padding-left: 33px;
+}
+.Email{
+    padding-left: 75px;
+}
+
+.gioiTinh{
+    padding-left: 55px;
+}
+.Role{
+    padding-left: 90px;
+}
+.button-show{
+    width: 150px;
+    padding-left: 50px;
+}
+
+
+
+
+
+

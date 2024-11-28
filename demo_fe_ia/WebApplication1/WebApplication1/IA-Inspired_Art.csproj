@@ -97,6 +97,7 @@
     <Content Include="Content\bootstrap.min.css" />
     <Content Include="Content\bootstrap.rtl.css" />
     <Content Include="Content\bootstrap.rtl.min.css" />
+    <Content Include="css\adm_home.css" />
     <Content Include="css\css_collection.css" />
     <Content Include="css\css_home.css" />
     <Content Include="css\css_home_adm.css" />
@@ -160,6 +161,7 @@
     <Content Include="img_collection\COLLECTION4.jpg" />
     <Content Include="img_topmusic\MUSIC.jpeg" />
     <Content Include="img_toppainting\LOVEBYTHELAKE.jpeg" />
+    <Content Include="js\js_adm_home.js" />
     <Content Include="js\js_collection.js" />
     <Content Include="js\js_exihibiton.js" />
     <Content Include="js\js_home_adm.js" />
