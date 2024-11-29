@@ -75,6 +75,8 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Adm_Home.aspx" />
+    <Content Include="Adm_ReportManagement.aspx" />
+    <Content Include="Adm_Setting.aspx" />
     <Content Include="App_Data\Database1.mdf" />
     <Content Include="App_Data\Database1_log.ldf">
       <DependentUpon>Database1.mdf</DependentUpon>
@@ -121,6 +123,7 @@
     <Content Include="Help.aspx" />
     <Content Include="Home.aspx" />
     <Content Include="images\avatar.jpg" />
+    <Content Include="images\img_admhome\a.png" />
     <Content Include="images\img_admhome\bar_chart.png" />
     <Content Include="images\img_admhome\e.jpg" />
     <Content Include="images\img_admhome\pie_chart.jpeg" />
@@ -216,6 +219,20 @@
     </Compile>
     <Compile Include="Adm_Home.aspx.designer.cs">
       <DependentUpon>Adm_Home.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Adm_ReportManagement.aspx.cs">
+      <DependentUpon>Adm_ReportManagement.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Adm_ReportManagement.aspx.designer.cs">
+      <DependentUpon>Adm_ReportManagement.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Adm_Setting.aspx.cs">
+      <DependentUpon>Adm_Setting.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Adm_Setting.aspx.designer.cs">
+      <DependentUpon>Adm_Setting.aspx</DependentUpon>
     </Compile>
     <Compile Include="MenuAdmin.Master.cs">
       <DependentUpon>MenuAdmin.Master</DependentUpon>
