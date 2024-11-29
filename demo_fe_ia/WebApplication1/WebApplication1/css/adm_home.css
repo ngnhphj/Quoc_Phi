@@ -127,26 +127,59 @@
     padding-left: 50px;
 }
 
+.show-more{
+    background-color: #333;
+    font-weight: bold;
+    color: white;
+    border-radius: 10px;
+    transition: background-color 0.3s ease;
+}
+
+.show-more:hover{
+    background-color: aqua;
+}
+
 .detail-container{
     /* position: relative; */
     display: flex;
     border: 1px solid #333;
     background-color: white;
     font-size: 16px;
-    color: #edfd07;
     flex-direction: column;
     padding: 20px;
     border-radius: 8px;
     text-align: center;
-    width: 300px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 .info-container{
     display: flex;
+    color: #000;
+    font-weight: bold;
+    border-bottom: 1px solid #333;
+    gap: 40px;
 }
 
 .noi-dung{
     display: flex;
+}
+.id-user{
+    margin-left: 17px;
+}
+.avatar-user{
+    margin-left: 49px;
+    border-radius: 50%;
+}
+.ten-user{
+    margin-left: 28px;
+}
+.diaChi-user{
+    margin-left: 30px;
+}
+.gender-user{
+    margin-left: 45px;
+}
+.age-user{
+    margin-left: 65px;
 }
 
 /* Popup - Mặc định ẩn */

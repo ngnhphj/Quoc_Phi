@@ -47,8 +47,7 @@
               "ViewState": "AgIAAI8AAAAAAAAAAAAAAJgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2024-11-27T02:00:28.092Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Bookmark",
@@ -68,8 +67,7 @@
               "RelativeToolTip": "WebApplication1\\LopKetNoi.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAADVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T13:47:21.898Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-28T13:47:21.898Z"
             },
             {
               "$type": "Document",
@@ -90,8 +88,8 @@
               "Title": "Adm_Home.aspx",
               "DocumentMoniker": "C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Adm_home.aspx",
               "RelativeDocumentMoniker": "WebApplication1\\Adm_home.aspx",
-              "ToolTip": "C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Adm_home.aspx*",
-              "RelativeToolTip": "WebApplication1\\Adm_home.aspx*",
+              "ToolTip": "C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Adm_home.aspx",
+              "RelativeToolTip": "WebApplication1\\Adm_home.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
               "WhenOpened": "2024-11-26T13:38:29.035Z",
@@ -107,8 +105,7 @@
               "RelativeToolTip": "WebApplication1\\js\\js_adm_home.js",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-11-28T12:57:22.006Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-28T12:57:22.006Z"
             },
             {
               "$type": "Document",
@@ -120,8 +117,7 @@
               "RelativeToolTip": "WebApplication1\\Adm_home.aspx.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAgwCEAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T12:47:03.266Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-28T12:47:03.266Z"
             }
           ]
         },

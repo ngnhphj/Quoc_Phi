@@ -77,9 +77,9 @@
                                 </asp:Label>
 
                                 <div class="button-show">
-                                    <asp:Button ID="Button1" runat="server" CommandArgument='<%# Eval("IDKHACHHANG") %>'
-                                        Text="Show more" OnClick="Button1_Click1"
-                                        OnClientClick="showPopup(); return false;" />
+                                    <asp:Button ID="Button1" runat="server" CssClass="show-more"
+                                        CommandArgument='<%# Eval("IDKHACHHANG") %>' Text="Show more"
+                                        OnClick="Button1_Click1" OnClientClick="showPopup(); return false;" />
                                 </div>
                             </div>
                         </ItemTemplate>
@@ -89,32 +89,36 @@
                 <asp:DataList ID="DETAIL" runat="server" Width="500px">
                     <ItemTemplate>
                         <div id="popup" class="popup">
-                            <div class="detail-container">
+                            <div class="detail-container" style="width: 600px;">
                                 <span id="closePopup" class="close"> &times;</span>
-                                <div class="info-container" style="display: flex;">
-                                    <p>ảnh sản phẩm</p>
-                                    <p>avatar</p>
-                                    <p>tên</p>
-                                    <p>địa chỉ</p>
-                                    <p>giới tính</p>
-                                    <p>id</p>
+                                <div class="info-container">
+                                    <p>Product photo</p>
+                                    <p>Avatar</p>
+                                    <p>Tên</p>
+                                    <p>Địa chỉ</p>
+                                    <p>Giới tính</p>
+                                    <p>ID</p>
                                 </div><br>
 
                                 <div class="noi-dung">
-                                    <asp:ImageButton ID="ImageButton1" runat="server"
+                                    <asp:ImageButton ID="ImageButton1" runat="server" CssClass="id-user"
                                         CommandArgument='<%# Eval("IDKHACHHANG") %>'
                                         ImageUrl='<%# "images/img_realtimearthub/"+Eval("AVTBIA") %>' HEIGHT="100PX"
                                         Width="70PX" />
-                                    <asp:ImageButton ID="ImageButton2" runat="server"
+                                    <asp:ImageButton ID="ImageButton2" runat="server" CssClass="avatar-user"
                                         CommandArgument='<%# Eval("IDKHACHHANG") %>'
-                                        ImageUrl='<%# "images/img_realtimearthub/"+Eval("AVTDAIDIEN") %>' HEIGHT="100PX"
+                                        ImageUrl='<%# "images/img_realtimearthub/"+Eval("AVTDAIDIEN") %>' HEIGHT="80PX"
                                         Width="70PX" />
-                                    <asp:Label ID="Label15" runat="server" Text='<%# Eval("TENDANGNHAP") %>'>
+                                    <asp:Label ID="Label15" runat="server" CssClass="ten-user"
+                                        Text='<%# Eval("TENDANGNHAP") %>'>
                                     </asp:Label>
                                     <br />
-                                    <asp:Label ID="Label16" runat="server" Text='<%# Eval("DIACHI") %>'></asp:Label>
-                                    <asp:Label ID="Label17" runat="server" Text='<%# Eval("GIOITINH") %>'></asp:Label>
-                                    <asp:Label ID="Label18" runat="server" Text='<%# Eval("TUOI") %>'></asp:Label>
+                                    <asp:Label ID="Label16" runat="server" CssClass="diaChi-user"
+                                        Text='<%# Eval("DIACHI") %>'></asp:Label>
+                                    <asp:Label ID="Label17" runat="server" CssClass="gender-user"
+                                        Text='<%# Eval("GIOITINH") %>'></asp:Label>
+                                    <asp:Label ID="Label18" runat="server" CssClass="age-user"
+                                        Text='<%# Eval("TUOI") %>'></asp:Label>
                                     <br />
                                 </div>
                             </div>
