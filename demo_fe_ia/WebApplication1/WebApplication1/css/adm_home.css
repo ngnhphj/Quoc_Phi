@@ -14,15 +14,16 @@
     position: relative;
     width: 170px;
     height: auto;
-    border: 1px solid #edfd07;
+    border: 1px solid #333;
     border-radius: 10px;
     margin-left: 5%;
+    box-shadow: 0 3px 10px var(--shadow-color);
 }
 
 .text-1 {
     font-size: 18px;
     font-weight: bold;
-    color: yellow;
+    color: var(--title-color);
     padding-left: 7px;
 }
 
@@ -36,15 +37,16 @@
     position: relative;
     width: 170px;
     height: auto;
-    border: 1px solid #edfd07;
+    border: 1px solid #333;
     border-radius: 10px;
     margin-left: 10%;
+    box-shadow: 0 3px 10px var(--shadow-color);
 }
 
 .text-2 {
     font-size: 18px;
     font-weight: bold;
-    color: yellow;
+    color: var(--title-color);
     padding-left: 7px;
 }
 
@@ -57,9 +59,10 @@
     position: relative;
     width: 410px;
     height: auto;
-    border: 1px solid #edfd07;
+    border: 1px solid #333;
     border-radius: 10px;
     margin-left: 10%;
+    box-shadow: 0 3px 10px var(--shadow-color);
     /* background: white; */
 
 }
@@ -67,7 +70,7 @@
 .text-3 {
     font-size: 18px;
     font-weight: bold;
-    color: yellow;
+    color: var(--title-color);
     margin-left: 30%;
 }
 
@@ -77,11 +80,12 @@
 }
 
 .container{
+    border-radius: 10px;
+    color: wheat;
     width: 734px;
     border-bottom: 1px solid #000;
     padding: 10px;
     font-weight: bold;
-    background-color: #004040;
 
 }
 
@@ -110,6 +114,7 @@
     background-color: #004040;
     color: white;
     font-weight: bold;
+    box-shadow: 0 3px 10px var(--shadow-color);
 }
 .id-khachHang{
     padding: 20px;
@@ -144,11 +149,10 @@
     background-color: aqua;
 }
 
-.detail-container{
+.detail-container {
     /* position: relative; */
     display: flex;
-    border: 1px solid #333;
-    background-color: white;
+    /* border: 1px solid #333; */
     font-size: 16px;
     flex-direction: column;
     padding: 20px;
@@ -158,35 +162,35 @@
 }
 .info-container{
     display: flex;
-    color: #000;
+    color: #fff;
     font-weight: bold;
-    border-bottom: 1px solid #333;
-    gap: 40px;
+    /* border-bottom: 1px solid #fff; */
+    gap: 59px;
 }
 
 .noi-dung{
     display: flex;
+    align-items: stretch;
 }
 .id-user{
-    margin-left: 17px;
+    margin-left: 7px;
 }
 .avatar-user{
-    margin-left: 49px;
+    margin-left: 55px;
     border-radius: 50%;
 }
 .ten-user{
-    margin-left: 28px;
+    margin-left: 70px;
 }
 .diaChi-user{
-    margin-left: 30px;
+    margin-left: 70px;
 }
 .gender-user{
-    margin-left: 45px;
+    margin-left: 70px;
 }
 .age-user{
-    margin-left: 65px;
+    margin-left: 90px;
 }
-
 /* Popup - Mặc định ẩn */
 .popup {
     display: none; /* Ẩn popup */
@@ -204,10 +208,10 @@
 
 /* Nội dung của popup */
 .detail-container {
-    background-color: #fff;
+    background-color: #3C2F58;
+    color: white;
     padding: 20px;
     border-radius: 8px;
-    width: 300px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 

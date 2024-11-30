@@ -39,7 +39,7 @@
 
             <div class="table-container" style="margin-left: 15%; width: 700px;">
                 <div class="table">
-                    <div class="container" style="background: white;">
+                    <div class="container" style="background: #004040;">
 
                         <asp:Label ID="Label9" runat="server" Text="ID" CssClass="id"></asp:Label>
 
@@ -52,7 +52,7 @@
 
                         <asp:Label ID="Label8" runat="server" Text="Role" CssClass="role"></asp:Label>
 
-                    </div>
+                    </div><br>
 
 
                     <asp:DataList ID="DSUSER" runat="server">
@@ -89,22 +89,22 @@
                 <asp:DataList ID="DETAIL" runat="server" Width="500px">
                     <ItemTemplate>
                         <div id="popup" class="popup">
-                            <div class="detail-container" style="width: 600px;">
+                            <div class="detail-container" style="width: 700px;">
                                 <span id="closePopup" class="close"> &times;</span>
                                 <div class="info-container">
-                                    <p>Product photo</p>
+                                    <p>Cover photo</p>
                                     <p>Avatar</p>
-                                    <p>Tên</p>
-                                    <p>Địa chỉ</p>
-                                    <p>Giới tính</p>
-                                    <p>ID</p>
+                                    <p class="ten">Username</p>
+                                    <p class="diachi">Address</p>
+                                    <p>Gender</p>
+                                    <p>Age</p>
                                 </div><br>
 
                                 <div class="noi-dung">
                                     <asp:ImageButton ID="ImageButton1" runat="server" CssClass="id-user"
                                         CommandArgument='<%# Eval("IDKHACHHANG") %>'
                                         ImageUrl='<%# "images/img_realtimearthub/"+Eval("AVTBIA") %>' HEIGHT="100PX"
-                                        Width="70PX" />
+                                        Width="80PX" />
                                     <asp:ImageButton ID="ImageButton2" runat="server" CssClass="avatar-user"
                                         CommandArgument='<%# Eval("IDKHACHHANG") %>'
                                         ImageUrl='<%# "images/img_realtimearthub/"+Eval("AVTDAIDIEN") %>' HEIGHT="80PX"
@@ -112,14 +112,12 @@
                                     <asp:Label ID="Label15" runat="server" CssClass="ten-user"
                                         Text='<%# Eval("TENDANGNHAP") %>'>
                                     </asp:Label>
-                                    <br />
                                     <asp:Label ID="Label16" runat="server" CssClass="diaChi-user"
                                         Text='<%# Eval("DIACHI") %>'></asp:Label>
                                     <asp:Label ID="Label17" runat="server" CssClass="gender-user"
                                         Text='<%# Eval("GIOITINH") %>'></asp:Label>
                                     <asp:Label ID="Label18" runat="server" CssClass="age-user"
                                         Text='<%# Eval("TUOI") %>'></asp:Label>
-                                    <br />
                                 </div>
                             </div>
                         </div>

@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|c:\\users\\trana\\documents\\github\\quoc_phi\\demo_fe_ia\\webapplication1\\webapplication1\\adm_setting.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|solutionrelative:webapplication1\\adm_setting.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\webapplication1\\adm_home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|solutionrelative:webapplication1\\adm_home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|c:\\users\\trana\\documents\\github\\quoc_phi\\demo_fe_ia\\webapplication1\\webapplication1\\css\\adm_home.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|solutionrelative:webapplication1\\css\\adm_home.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|c:\\users\\trana\\documents\\github\\quoc_phi\\demo_fe_ia\\webapplication1\\webapplication1\\adm_setting.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|solutionrelative:webapplication1\\adm_setting.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3F4F44F4-84AB-4F2F-9EF2-65667A876602}|WebApplication1\\IA-Inspired_Art.csproj|C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\webapplication1\\js\\js_adm_setting.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
@@ -30,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 34,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -43,18 +47,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Adm_Home.aspx",
-              "DocumentMoniker": "C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Adm_home.aspx",
-              "RelativeDocumentMoniker": "WebApplication1\\Adm_home.aspx",
-              "ToolTip": "C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Adm_home.aspx",
-              "RelativeToolTip": "WebApplication1\\Adm_home.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-11-30T16:23:10.264Z"
+              "Title": "adm_home.css",
+              "DocumentMoniker": "C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\css\\adm_home.css",
+              "RelativeDocumentMoniker": "WebApplication1\\css\\adm_home.css",
+              "ToolTip": "C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\css\\adm_home.css",
+              "RelativeToolTip": "WebApplication1\\css\\adm_home.css",
+              "ViewState": "AgIAAIYAAAAAAAAAAAAAAJsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-30T18:32:55.081Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "Adm_Home.aspx",
+              "DocumentMoniker": "C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Adm_home.aspx",
+              "RelativeDocumentMoniker": "WebApplication1\\Adm_home.aspx",
+              "ToolTip": "C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Adm_home.aspx*",
+              "RelativeToolTip": "WebApplication1\\Adm_home.aspx*",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-30T16:23:10.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "js_adm_setting.js",
               "DocumentMoniker": "C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\js\\js_adm_setting.js",
               "RelativeDocumentMoniker": "WebApplication1\\js\\js_adm_setting.js",
@@ -62,11 +80,12 @@
               "RelativeToolTip": "WebApplication1\\js\\js_adm_setting.js",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-11-30T11:36:56.529Z"
+              "WhenOpened": "2024-11-30T11:36:56.529Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "adm_settting.css",
               "DocumentMoniker": "C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\css\\adm_settting.css",
               "RelativeDocumentMoniker": "WebApplication1\\css\\adm_settting.css",
@@ -74,11 +93,12 @@
               "RelativeToolTip": "WebApplication1\\css\\adm_settting.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAHcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-11-30T04:08:17.16Z"
+              "WhenOpened": "2024-11-30T04:08:17.16Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Adm_Setting.aspx",
               "DocumentMoniker": "C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\Adm_Setting.aspx",
               "RelativeDocumentMoniker": "WebApplication1\\Adm_Setting.aspx",
@@ -91,7 +111,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "LopKetNoi.cs",
               "DocumentMoniker": "C:\\Users\\trana\\Documents\\GitHub\\Quoc_Phi\\demo_fe_ia\\WebApplication1\\WebApplication1\\LopKetNoi.cs",
               "RelativeDocumentMoniker": "WebApplication1\\LopKetNoi.cs",
@@ -99,7 +119,8 @@
               "RelativeToolTip": "WebApplication1\\LopKetNoi.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAADVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T13:47:21.898Z"
+              "WhenOpened": "2024-11-28T13:47:21.898Z",
+              "EditorCaption": ""
             }
           ]
         },
