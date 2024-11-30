@@ -39,7 +39,7 @@
 
             <div class="table-container" style="margin-left: 15%; width: 700px;">
                 <div class="table">
-                    <div class="container" style="padding-top: 7px; background: white;">
+                    <div class="container" style="background: white;">
 
                         <asp:Label ID="Label9" runat="server" Text="ID" CssClass="id"></asp:Label>
 

@@ -100,6 +100,7 @@
     <Content Include="Content\bootstrap.rtl.css" />
     <Content Include="Content\bootstrap.rtl.min.css" />
     <Content Include="css\adm_home.css" />
+    <Content Include="css\adm_settting.css" />
     <Content Include="css\css_collection.css" />
     <Content Include="css\css_home.css" />
     <Content Include="css\css_home_adm.css" />
@@ -110,9 +111,9 @@
     <Content Include="css\css_photodetail.css" />
     <Content Include="css\css_photos.css" />
     <Content Include="css\css_profile.css" />
-    <Content Include="css\css_setting_adm.css" />
     <Content Include="css\css_shoppingcart.css" />
     <Content Include="css\exhibiton.css" />
+    <Content Include="css\js_setting_adm.js" />
     <Content Include="css\oder-details.css" />
     <Content Include="css\product-business.css" />
     <Content Include="css\css_setting.css" />
@@ -165,6 +166,7 @@
     <Content Include="img_topmusic\MUSIC.jpeg" />
     <Content Include="img_toppainting\LOVEBYTHELAKE.jpeg" />
     <Content Include="js\js_adm_home.js" />
+    <Content Include="js\js_adm_setting.js" />
     <Content Include="js\js_collection.js" />
     <Content Include="js\js_exihibiton.js" />
     <Content Include="js\js_home_adm.js" />
@@ -172,7 +174,6 @@
     <Content Include="js\js_menuAdmin.js" />
     <Content Include="js\js_profile.js" />
     <Content Include="js\js_report_mana_adm.js" />
-    <Content Include="js\js_setting_adm.js" />
     <Content Include="Login.aspx" />
     <Content Include="Melody.aspx" />
     <Content Include="MelodyDetails.aspx" />
