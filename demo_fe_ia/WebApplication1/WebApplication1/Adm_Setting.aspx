@@ -36,7 +36,7 @@
                         <div class="title-interface">
                             <asp:Label ID="Label4" runat="server" Text="Interface" CssClass="label14-interface">
                             </asp:Label>
-                            <button class="click" type="button">Click</button>
+                            <button class="click" type="button">Change</button>
                         </div>
                     </div>
                     <div class="content-interface hidden">
@@ -53,7 +53,7 @@
                         <div class="title-system">
                             <asp:Label ID="Label6" runat="server" Text="System update" CssClass="label16-system">
                             </asp:Label>
-                            <button class="click-1" type="button">Click</button>
+                            <button class="click-1" type="button">Change</button>
                         </div>
                     </div>
                     <div class="content-system hidden">

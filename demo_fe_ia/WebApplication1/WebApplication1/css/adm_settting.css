@@ -12,14 +12,15 @@
 
 .language-setting {
     display: flex;
-    gap: 200px;
+    gap: 220px;
     align-items: center;
     justify-content: center;
     width: 500px;
     height: 50px;
     border: 1px solid #333;
     border-radius: 10px;
-    background: #ADD8E6;
+    background: #3C2F58;
+    color: white;
 
 }
 
@@ -30,7 +31,7 @@
 }
 
 .drop-language {
-    background-color: #FF6E40;
+    background-color: #1A1A40;
     color: white;
     height: 30px;
     border-radius: 10px;
@@ -46,8 +47,8 @@
     height: 50px;
     border: 1px solid #333;
     border-radius: 10px;
-    background: #ADD8E6;
-
+    background: #3C2F58;
+    color: white;
 }
 
 .label13-notification {
@@ -141,7 +142,8 @@
     height: 50px;
     border: 1px solid #333;
     border-radius: 10px;
-    background: #ADD8E6;
+    background: #3C2F58;
+    color: white;
 
 }
 
@@ -153,13 +155,13 @@
 .click {
     font-family: Arial, Helvetica, sans-serif;
     border-radius: 5px;
-    color: #000;
+    color: #fff;
+    background-color: #000;
     margin-left: 250px;
 }
 
 .click:hover {
-    background-color: #FF6E40;
-    color: white;
+    background-color: #1A1A40;
 }
 
 .content-interface {
@@ -172,9 +174,10 @@
     gap: 10px;
     border: 1px solid #333;
     border-radius: 10px;
-    background-color: #65c3e3;
+    background-color: #1A1A40;
     font-size: 16px;
     font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
     color: white;
 }
 
@@ -188,7 +191,8 @@
 }
 
 .button-light:hover {
-    background-color: #FFD700;
+    background-color: #3C2F58;
+    color: white;
 }
 
 .button-dark {
@@ -197,7 +201,8 @@
 }
 
 .button-dark:hover {
-    background-color: #FFD700;
+    background-color: #3C2F58;
+    color: white;
 }
 
 .system-container {
@@ -213,8 +218,8 @@
     height: 50px;
     border: 1px solid #333;
     border-radius: 10px;
-    background: #ADD8E6;
-
+    background: #3C2F58;
+    color: white;
 }
 
 .label16-system {
@@ -225,12 +230,13 @@
 .click-1 {
     font-family: Arial, Helvetica, sans-serif;
     border-radius: 5px;
-    color: #000;
+    color: #fff;
     margin-left: 200px;
+    background-color: #000;
 }
 
 .click-1:hover {
-    background-color: #FF6E40;
+    background-color: #1A1A40;
     color: white;
 }
 
@@ -244,8 +250,9 @@
     gap: 10px;
     border: 1px solid #333;
     border-radius: 10px;
-    background-color: #65c3e3;
+    background-color: #1A1A40;
     font-size: 16px;
+    font-weight: bold;
 }
 
 .hidden {
@@ -258,7 +265,8 @@
 }
 
 .button-upload:hover {
-    background-color: #FFD700;
+    background-color: #3C2F58;
+    color: white;
 }
 
 
@@ -275,7 +283,8 @@
     height: 50px;
     border: 1px solid #333;
     border-radius: 10px;
-    background: #ADD8E6;
+    background: #3C2F58;
+    color: white;
 
 }
 
@@ -287,12 +296,13 @@
 .click-2 {
     font-family: Arial, Helvetica, sans-serif;
     border-radius: 5px;
-    color: #000;
-    margin-left: 240px;
+    color: #fff;
+    background-color: #000;
+    margin-left: 260px;
 }
 
 .click-2:hover {
-    background-color: #FF6E40;
+    background-color: #1A1A40;
     color: white;
 }
 
@@ -306,9 +316,10 @@
     gap: 10px;
     border: 1px solid #333;
     border-radius: 10px;
-    background-color: #65c3e3;
+    background-color: #1A1A40;
     color: white;
     font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
     font-size: 16px;
 }
 
@@ -321,7 +332,8 @@
 
 }
 .button-confirm:hover{
-    background-color: #FFD700;
+    background-color: #3C2F58;
+    color: white;
 }
 .button-cancel{
     border-radius: 5px;
@@ -329,5 +341,6 @@
 
 }
 .button-cancel:hover{
-    background-color: #FFD700;
+    background-color: #3C2F58;
+    color: white;
 }
