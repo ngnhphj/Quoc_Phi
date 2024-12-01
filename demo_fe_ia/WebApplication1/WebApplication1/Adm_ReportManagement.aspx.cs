@@ -12,18 +12,30 @@ namespace WebApplication1
         LopKetNoi kn = new LopKetNoi();
         protected void Page_Load(object sender, EventArgs e)
         {
-            if (IsPostBack) return;
+            if (IsPostBack) { return; }
+            string sql = "SELECT IDKHACHHANG, TENDANGNHAP, SOLUONGREPORT FROM KHACHHANG";
+            DSREPORT.DataSource = kn.LayDuLieu(sql);
+            DSREPORT.DataBind();
+
+
         }
 
-        protected void DropDownList1_SelectedIndexChanged(object sender, EventArgs e)
+        protected void Button1_Click1(object sender, EventArgs e)
         {
-            do
+            var button = sender as System.Web.UI.WebControls.Button;
+            if (button != null)
             {
-                string sql = "Select * from KHACHHANG";
-                DSKH.DataSource = kn.LayDuLieu(sql);
-                DSKH.DataBind();
-            } while (chon.SelectedValue == "a");
+                int idKhachHang = int.Parse(button.CommandArgument);
 
+                string sql = "UPDATE KHACHHANG SET SOLUONGREPORT = SOLUONGREPORT + 1 WHERE IDKHACHHANG = @IDKHACHHANG";
+                var parameters = new[]
+                {
+                    new System.Data.SqlClient.SqlParameter("@IDKHACHHANG", idKhachHang)
+                };
+
+                int rowsAffected = kn.ThucThiLenh(sql, parameters);
+
+            }
         }
     }
 }
