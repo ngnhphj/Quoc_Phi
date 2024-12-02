@@ -117,7 +117,7 @@
     <Content Include="css\oder-details.css" />
     <Content Include="css\product-business.css" />
     <Content Include="css\css_setting.css" />
-    <Content Include="css\report_Management_adm.css" />
+    <Content Include="css\report-adm.css" />
     <Content Include="css\upload-business.css" />
     <Content Include="ExhibitionCorner.aspx" />
     <Content Include="Global.asax" />
@@ -173,7 +173,7 @@
     <Content Include="js\js_login.js" />
     <Content Include="js\js_menuAdmin.js" />
     <Content Include="js\js_profile.js" />
-    <Content Include="js\js_report_mana_adm.js" />
+    <Content Include="js\js_report_adm.js" />
     <Content Include="Login.aspx" />
     <Content Include="Melody.aspx" />
     <Content Include="MelodyDetails.aspx" />
