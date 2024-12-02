@@ -28,32 +28,26 @@
               <asp:Label ID="Label16" runat="server" CssClass="label16-report" Text='<%# Eval("SOLUONGREPORT") %>'>
               </asp:Label>
               <div class="button-show">
-                <asp:Button ID="Button1" runat="server" CssClass="button-report"
-                  CommandArgument='<%# Eval("IDKHACHHANG") %>' Text="Report" OnClick="Button1_Click1"
-                  OnClientClick="showPopup(event);" />
+               <asp:Button ID="Button1" runat="server" Text="Report" OnClick="Button1_Click1" OnClientClick="return confirmReport();" CommandArgument='<%# Eval("IDKHACHHANG") %>' />
+
               </div>
             </div>
+
             
 
           </ItemTemplate>
         </asp:DataList>
-        <div class="message-info hidden">
-          <div class="popup-container">
-            <div class="question-section">
-              <asp:Label ID="Label17" runat="server" Text="Send a report message to this user?"
-                style="font-weight: bold; color: white;"></asp:Label>
-              <asp:Button ID="Button2" runat="server" CssClass="button-confirm" Text="Confirm"
-                OnClientClick="return false;" />
-            </div>
-
-            <div class="success-section hidden">
-              <label for="" class="success-message">Report success</label>
-              <asp:Button ID="Button3" runat="server" CssClass="button-cancel" Text="Close"
-                OnClientClick="return false;" />
-            </div>
+       
           </div>
         </div>
       </div>
     </div>
-    <script src="js/js_report_adm.js"></script>
+
+      <script type="text/javascript">
+          function confirmReport() {
+              // Hiển thị hộp thoại xác nhận
+              return confirm("Bạn có chắc chắn muốn báo cáo người dùng này không?");
+          }
+      </script>
+
   </asp:Content>
