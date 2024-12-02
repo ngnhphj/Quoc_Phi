@@ -1,6 +1,10 @@
-﻿.row-title-container{
+﻿
+.row-title-container{
     width: 100%;
-    height: auto;
+    height: 470px;
+    overflow-y: scroll;
+    overflow-x: hidden;
+    box-sizing: border-box;
 }
 .Title {
     font-size: 21px;
@@ -13,10 +17,10 @@
     display: flex;
     color: wheat;
     font-weight: bold;
-    background-color: #004040;
+    background-color: var(--border-color);
     width: 500px;
     height: 40px;
-    gap: 60px;
+    gap: 55px;
     padding: 10px;
 }
 
@@ -46,6 +50,10 @@
     margin-left: 90px;
     border-radius: 10px;
     font-weight: bold;
+    background-color: var(--card-color);
+    border: 3px solid var(--border-color);
+    border-radius: 0 5px 5px 0;
+    color: var(--title-color);
 }
 .button-report:hover{
     background-color: #004040;

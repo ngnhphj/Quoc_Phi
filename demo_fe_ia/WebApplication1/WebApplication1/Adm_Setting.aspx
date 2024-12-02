@@ -1,14 +1,15 @@
 ﻿<%@ Page Title="" Language="C#" MasterPageFile="~/MenuAdmin.Master" AutoEventWireup="true"
     CodeBehind="Adm_Setting.aspx.cs" Inherits="WebApplication1.Adm_Setting" %>
     <asp:Content ID="Content1" ContentPlaceHolderID="search" runat="server">
+        <h1 style="color: var(--title-color); font-weight: bold; margin-left: 50%; padding-top: 5px;">Settings</h1>
     </asp:Content>
     <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
         <link href="css/adm_settting.css" rel="stylesheet" />
 
         <div class="row-frame">
-            <div class="title-setting">
+            <!-- <div class="title-setting">
                 <asp:Label ID="Label1" runat="server" Text="Settings"></asp:Label>
-            </div> <br />
+            </div> <br /> -->
 
             <div class="function-setting" style="margin-left: 22%;">
                 <div class="language-setting">
@@ -86,6 +87,7 @@
                 </div>
 
             </div>
+
 
         </div>
 

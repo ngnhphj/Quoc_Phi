@@ -1,6 +1,9 @@
 ﻿.row-frame {
     width: 100%;
-    height: auto;
+    height: 545px;
+    overflow-y: scroll;
+    overflow-x: hidden;
+    box-sizing: border-box;
 }
 
 .title-setting {

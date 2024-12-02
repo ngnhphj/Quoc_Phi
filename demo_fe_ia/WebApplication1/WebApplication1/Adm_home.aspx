@@ -1,17 +1,18 @@
 ﻿<%@ Page Title="" Language="C#" MasterPageFile="~/MenuAdmin.Master" AutoEventWireup="true" CodeBehind="Adm_Home.aspx.cs"
     Inherits="WebApplication1.Adm_Home" %>
     <asp:Content ID="Content1" ContentPlaceHolderID="search" runat="server">
-
+        <h1 style="color: var(--title-color); font-weight: bold; margin-left: 30%; padding-top: 5px;">Welcom to Admin
+            Page!!!</h1>
     </asp:Content>
     <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
         <link href="css/adm_home.css" rel="stylesheet" />
 
         <div class="row-tong">
-            <div class="tieu-de">
+            <!-- <div class="tieu-de">
                 <asp:Label ID="Label1" runat="server" Text="Welcom to Admin Page!!!">
                 </asp:Label>
             </div>
-            <br />
+            <br /> -->
 
             <div class="row-img" style="display: flex;">
                 <div class="number-of-oders">
@@ -125,7 +126,6 @@
                     </ItemTemplate>
                 </asp:DataList>
             </div><br>
-
 
 
         </div>

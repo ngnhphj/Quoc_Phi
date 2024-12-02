@@ -1,6 +1,9 @@
 ﻿.row-tong {
     width: 100%;
-    height: auto;
+    height: 545px;
+    overflow-y: scroll;
+    overflow-x: hidden;
+    box-sizing: border-box;
 }
 
 .tieu-de {
@@ -33,7 +36,7 @@
 }
 
 
-.number-of-user{
+.number-of-user {
     position: relative;
     width: 170px;
     height: auto;
@@ -55,7 +58,7 @@
     margin-left: 20px;
 }
 
-.top-feature{
+.top-feature {
     position: relative;
     width: 410px;
     height: auto;
@@ -79,33 +82,37 @@
     margin-left: 30px;
 }
 
-.container{
+.container {
     border-radius: 10px;
     color: wheat;
-    width: 734px;
+    width: 900px;
     border-bottom: 1px solid #000;
     padding: 10px;
     font-weight: bold;
-
 }
 
-.id{
-    padding-left: 9px;
+.id {
+    padding-left: 20px;
 }
-.username{
-    padding-left: 30px;
+
+.username {
+    padding-left: 55px;
 }
-.email{
+
+.email {
+    padding-left: 150px;
+}
+
+.gender {
+    padding-left: 130px;
+}
+
+.role {
     padding-left: 100px;
 }
-.gender{
-    padding-left: 120px;
-}
-.role{
-    padding-left: 70px;
-}
 
-.tabel-info{
+.tabel-info {
+    width: 900px;
     height: 50px;
     display: flex;
     flex-direction: row;
@@ -116,38 +123,40 @@
     font-weight: bold;
     box-shadow: 0 3px 10px var(--shadow-color);
 }
-.id-khachHang{
+
+.id-khachHang {
     padding: 20px;
 }
-.ten-dangNhap{
+
+.ten-dangNhap {
     padding-left: 33px;
 }
-.Email{
+
+.Email {
     padding-left: 75px;
 }
 
-.gioiTinh{
+.gioiTinh {
     padding-left: 55px;
 }
-.Role{
+
+.Role {
     padding-left: 90px;
 }
-.button-show{
+
+.button-show {
     width: 150px;
     padding-left: 50px;
 }
 
-.show-more{
-    background-color: #333;
+.show-more {
     font-weight: bold;
-    color: white;
-    border-radius: 10px;
-    transition: background-color 0.3s ease;
+    background-color: #004040;
+    border: 3px solid var(--border-color);
+    border-radius: 0 5px 5px 0;
+    color: var(--title-color);
 }
 
-.show-more:hover{
-    background-color: aqua;
-}
 
 .detail-container {
     /* position: relative; */
@@ -160,7 +169,8 @@
     text-align: center;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
-.info-container{
+
+.info-container {
     display: flex;
     color: #fff;
     font-weight: bold;
@@ -168,38 +178,47 @@
     gap: 59px;
 }
 
-.noi-dung{
+.noi-dung {
     display: flex;
     align-items: stretch;
 }
-.id-user{
+
+.id-user {
     margin-left: 7px;
 }
-.avatar-user{
+
+.avatar-user {
     margin-left: 55px;
     border-radius: 50%;
 }
-.ten-user{
+
+.ten-user {
     margin-left: 70px;
 }
-.diaChi-user{
+
+.diaChi-user {
     margin-left: 70px;
 }
-.gender-user{
+
+.gender-user {
     margin-left: 70px;
 }
-.age-user{
+
+.age-user {
     margin-left: 90px;
 }
+
 /* Popup - Mặc định ẩn */
 .popup {
-    display: none; /* Ẩn popup */
+    display: none;
+    /* Ẩn popup */
     position: fixed;
     left: 0;
     top: 0;
     width: 100%;
     height: 100%;
-    background-color: rgba(0, 0, 0, 0.5); /* Màu nền mờ */
+    background-color: rgba(0, 0, 0, 0.5);
+    /* Màu nền mờ */
     z-index: 1;
     justify-content: center;
     align-items: center;
@@ -231,8 +250,3 @@
 .close:focus {
     color: red;
 }
-
-
-
-
-
